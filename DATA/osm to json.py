@@ -7,12 +7,24 @@ def parse_osm(xml_file):
 
     data = {"Places": [], "ways": []}
 
+    duplicates_list = []
     for node in root.findall(".//node"):
         node_data = {"id": node.attrib["id"], "lat": node.attrib["lat"], "lon": node.attrib["lon"]}
         for tag in node.findall("tag"):
             if tag.attrib["k"] == "name" or tag.attrib["k"] == "name:en" or tag.attrib["k"] == "contact:phone" or tag.attrib["k"] == "opening_hours" or tag.attrib["k"] == "website" or tag.attrib["k"] == "description" or tag.attrib["k"] == "addr:city":
                 node_data[tag.attrib["k"]] = tag.attrib["v"]
-        data["Places"].append(node_data)
+
+        lat, lon = node.attrib["lat"][:5], node.attrib["lon"][:5]
+        if (lat, lon) not in duplicates_list:
+            duplicates_list.append((lat, lon))
+            data["Places"].append(node_data)
+        else:
+            for elem in data["Places"]:
+                if elem["lat"] == lat and elem["lon"] == lon:
+                    elem.update(node_data)
+                    break
+
+
 
     for way in root.findall(".//way"):
         way_tags = {}
