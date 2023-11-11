@@ -1,8 +1,8 @@
-# I don't have name yet, sadge
+# Storimak
 
 <b>Subject:</b> Software Design & Architechture
 
-<b>Name of the web application:</b> ?????????
+<b>Name of the web application:</b> Storimak
 
 
 Authors:
