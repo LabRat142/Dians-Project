@@ -1,10 +1,12 @@
 package dians_project.storimak.model;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.sql.Time;
 
 @Data
+@AllArgsConstructor
 public class Place {
     double lat;
     double lon;
@@ -14,5 +16,5 @@ public class Place {
     String description;
     String phone_number;
     String city;
-    Time opening_hours;
+    String opening_hours;
 }
