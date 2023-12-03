@@ -9,4 +9,5 @@ import java.util.List;
 @Service
 public interface PlaceService {
     public List<Place> readJsonFromFile(String filePath) throws IOException;
+    public List<Place> findAll();
 }

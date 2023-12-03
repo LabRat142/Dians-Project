@@ -1,0 +1,3560 @@
+[
+    {
+      "lat": "41.7801446",
+      "lon": "22.5070392",
+      "name": "Лисец",
+      "name:en": "Lisec"
+    },
+    {
+      "lat": "41.0026621",
+      "lon": "21.1831915",
+      "name": "Пелистер",
+      "name:en": "Pelister"
+    },
+    {
+      "lat": "42.0057090",
+      "lon": "21.4174425",
+      "contact:phone": "+38923117669",
+      "name": "Природонаучен Музеј",
+      "name:en": "Macedonian Museum of Natural History",
+      "opening_hours": "Tu-Su 09:00-16:00"
+    },
+    {
+      "lat": "40.8554756",
+      "lon": "20.9824384",
+      "name": "Tripoint"
+    },
+    {
+      "lat": "40.9180425",
+      "lon": "20.7718578",
+      "name": "Љубаништа",
+      "name:en": "Lubanishta"
+    },
+    {
+      "lat": "42.0135469",
+      "lon": "20.8869241",
+      "name": "Попова Шапка",
+      "name:en": "Popova Shapka"
+    },
+    {
+      "lat": "41.6497078",
+      "lon": "20.7356405",
+      "name": "Бистра"
+    },
+    {
+      "lat": "41.9776318",
+      "lon": "21.4209659",
+      "name": "Видиковец - Водно"
+    },
+    {
+      "lat": "41.9766582",
+      "lon": "21.4087904",
+      "name": "Хотел Водно",
+      "name:en": "Vodno Hotel",
+      "website": "http://hotelimakedonija.com.mk/mk/Hotel/57/Hotel-Vodno-Skopje"
+    },
+    {
+      "lat": "42.0004463",
+      "lon": "21.4325380",
+      "name": "Видиковец „Скопско кале“"
+    },
+    {
+      "lat": "41.9936737",
+      "lon": "21.4333190",
+      "description": "Историско значење Питу Гули (1865 - 12 август 1903) — македонски револуционер со влашко потекло, учесник во македонското револуционерно движење, член и војвода на Македонската револуционерна организација.\nСовременици сведочат дека Питу Гули имал завршено",
+      "name": "Питу Гули"
+    },
+    {
+      "lat": "42.0032812",
+      "lon": "21.4233737",
+      "name": "Гоце Делчев"
+    },
+    {
+      "lat": "41.4440951",
+      "lon": "22.0082491",
+      "name": "Feni"
+    },
+    {
+      "lat": "42.0195738",
+      "lon": "20.9601530",
+      "name": "Тетовско Кале",
+      "name:en": "Tetovo Fortress"
+    },
+    {
+      "lat": "41.4325212",
+      "lon": "22.0228463",
+      "name": "Костурница",
+      "name:en": "Kosturnica"
+    },
+    {
+      "lat": "41.4950992",
+      "lon": "22.1008382",
+      "name": "Park"
+    },
+    {
+      "lat": "41.3377228",
+      "lon": "21.2578980",
+      "name": "Мечкин Камен",
+      "name:en": "Mechkin Kamen"
+    },
+    {
+      "lat": "41.3880768",
+      "lon": "21.2273776",
+      "name": "Слива"
+    },
+    {
+      "lat": "41.9761668",
+      "lon": "21.4358015",
+      "name": "Hotel Imperial"
+    },
+    {
+      "lat": "41.0178400",
+      "lon": "20.8104255",
+      "name": "Пештани",
+      "name:en": "Peshtani"
+    },
+    {
+      "lat": "41.9899482",
+      "lon": "21.4198508",
+      "name": "Хотел 7",
+      "name:en": "Hotel 7"
+    },
+    {
+      "lat": "41.9944128",
+      "lon": "21.4063454",
+      "name": "Вук;Никем"
+    },
+    {
+      "lat": "41.3910101",
+      "lon": "22.0391960",
+      "name": "Шемов"
+    },
+    {
+      "lat": "41.9188903",
+      "lon": "22.4069917",
+      "name": "Споменик на слободата",
+      "name:en": "Monument of Freedom"
+    },
+    {
+      "lat": "41.1716121",
+      "lon": "20.7061975",
+      "name": "Hotel EUROTEL"
+    },
+    {
+      "lat": "41.4396276",
+      "lon": "22.6418073",
+      "name": "Hotel Tiveriopol"
+    },
+    {
+      "lat": "41.4128709",
+      "lon": "22.6517229",
+      "name": "Хотел Сириус"
+    },
+    {
+      "lat": "42.0348398",
+      "lon": "22.3557992",
+      "name": "Пониква",
+      "name:en": "Ponikva"
+    },
+    {
+      "lat": "42.0690911",
+      "lon": "21.3001786",
+      "name": "Манастир Св. Ѓорѓија"
+    },
+    {
+      "lat": "42.1847710",
+      "lon": "21.1272790",
+      "name": "Љуботен",
+      "name:en": "Ljuboten"
+    },
+    {
+      "lat": "42.2916094",
+      "lon": "22.3507979",
+      "name": "WWII Battle - 17th Macedonian Brigade ws Bulgarian army"
+    },
+    {
+      "lat": "42.2032723",
+      "lon": "22.3350529",
+      "name": "Turist"
+    },
+    {
+      "lat": "42.0011146",
+      "lon": "22.1759186",
+      "name": "Кај Зоки"
+    },
+    {
+      "lat": "41.7077548",
+      "lon": "22.8566138",
+      "name": "Музеј на град Берово",
+      "name:en": "Berovo Town Museum",
+      "website": "http://www.berovo.gov.mk/index.php?option=com_content&view=article&id=76&Itemid=117"
+    },
+    {
+      "lat": "41.6849594",
+      "lon": "21.8309270",
+      "name": "Македонија"
+    },
+    {
+      "lat": "40.9539377",
+      "lon": "20.8125316",
+      "name": "Баба",
+      "name:en": "Baba"
+    },
+    {
+      "lat": "41.1776616",
+      "lon": "20.6798350",
+      "name": "Споменик на Револуцијата",
+      "name:en": "Monument of the Revolution"
+    },
+    {
+      "lat": "41.9135160",
+      "lon": "22.7381829",
+      "name": "Одмаралиште Голак",
+      "name:en": "Resort Golak"
+    },
+    {
+      "lat": "41.7299403",
+      "lon": "22.9420645",
+      "name": "Мотел Идила",
+      "name:en": "Motel Idila"
+    },
+    {
+      "lat": "41.0788322",
+      "lon": "20.8023400",
+      "name": "Hotel BELVEDERE",
+      "name:en": "Hotel BELVEDERE"
+    },
+    {
+      "lat": "41.9651264",
+      "lon": "21.3945115",
+      "name": "Милениумски Крст"
+    },
+    {
+      "lat": "41.0896892",
+      "lon": "21.0134146",
+      "addr:city": "Ресен",
+      "name": "Китка"
+    },
+    {
+      "lat": "42.1055335",
+      "lon": "22.0553053",
+      "name": "Камени кукли",
+      "name:en": "Stone town of Kuklica"
+    },
+    {
+      "lat": "42.1824239",
+      "lon": "22.1633104",
+      "name": "Гиновци"
+    },
+    {
+      "lat": "41.6350875",
+      "lon": "22.4677492",
+      "name": "Св.Тројца",
+      "name:en": "Sv.Trojca"
+    },
+    {
+      "lat": "41.5924377",
+      "lon": "20.6481197",
+      "name": "Хотел НЕДА - Галичник",
+      "website": "https://hotelneda.mk"
+    },
+    {
+      "lat": "41.7107367",
+      "lon": "22.8518197",
+      "name": "На Филип Кашчата"
+    },
+    {
+      "lat": "41.8841902",
+      "lon": "22.5049622",
+      "name": "Museum Teracotta"
+    },
+    {
+      "lat": "41.3632110",
+      "lon": "22.9650942",
+      "name": "5"
+    },
+    {
+      "lat": "41.9801920",
+      "lon": "21.4401520",
+      "name": "Hotel Orange Inn",
+      "website": "https://www.booking.com/hotel/mk/orange-inn.en-gb.html?sid=1ddd35f0ef4f22510d37f152a78ce4a3"
+    },
+    {
+      "lat": "41.9842736",
+      "lon": "21.4340308",
+      "name": "Хостел Хостел"
+    },
+    {
+      "lat": "41.9801123",
+      "lon": "21.4249793",
+      "name": "Хотел Турена"
+    },
+    {
+      "lat": "41.0246942",
+      "lon": "21.2059164",
+      "description": "Wooden Platform",
+      "name": "Видиковец",
+      "name:en": "Vidikovec (Viewpoint)"
+    },
+    {
+      "lat": "41.6346281",
+      "lon": "20.5620379",
+      "name": "Lukov"
+    },
+    {
+      "lat": "41.5898039",
+      "lon": "20.6246531",
+      "name": "Хотел Туто",
+      "website": "www.tutto.com.mk"
+    },
+    {
+      "lat": "42.0586697",
+      "lon": "21.3527926",
+      "name": "Rimska crkva"
+    },
+    {
+      "lat": "42.0843452",
+      "lon": "21.3548716",
+      "name": "Давина Кула",
+      "name:en": "Davina Kula"
+    },
+    {
+      "lat": "42.0587494",
+      "lon": "21.2786993",
+      "name": "Голема Кула - Кучково"
+    },
+    {
+      "lat": "42.0585741",
+      "lon": "21.2844339",
+      "name": "Мала Кула - Кучково"
+    },
+    {
+      "lat": "41.1120923",
+      "lon": "20.8059275",
+      "name": "De Lux Apartments Ohrid"
+    },
+    {
+      "lat": "41.6517445",
+      "lon": "21.4530414",
+      "name": "Рибник Нежилово"
+    },
+    {
+      "lat": "41.0214101",
+      "lon": "21.2228278",
+      "name": "Jorgov Kamen"
+    },
+    {
+      "lat": "41.8594296",
+      "lon": "21.7382960",
+      "name": "Црн Врв"
+    },
+    {
+      "lat": "42.0055458",
+      "lon": "21.3755273",
+      "name": "Мрамор",
+      "name:en": "Mramor"
+    },
+    {
+      "lat": "41.3534717",
+      "lon": "22.9655541",
+      "name": "4"
+    },
+    {
+      "lat": "41.3704535",
+      "lon": "22.9637614",
+      "name": "10"
+    },
+    {
+      "lat": "41.3839589",
+      "lon": "22.9628726",
+      "name": "19"
+    },
+    {
+      "lat": "41.3931081",
+      "lon": "22.9667134",
+      "name": "22"
+    },
+    {
+      "lat": "41.4070803",
+      "lon": "22.9615881",
+      "name": "27"
+    },
+    {
+      "lat": "41.4174975",
+      "lon": "22.9520216",
+      "name": "28"
+    },
+    {
+      "lat": "41.4400834",
+      "lon": "22.9746504",
+      "name": "30"
+    },
+    {
+      "lat": "42.1102442",
+      "lon": "22.5899869",
+      "name": "Куцолиница / 86"
+    },
+    {
+      "lat": "42.1119645",
+      "lon": "22.5770819",
+      "name": "87"
+    },
+    {
+      "lat": "42.1551091",
+      "lon": "22.5104573",
+      "name": "90"
+    },
+    {
+      "lat": "42.3089612",
+      "lon": "22.3705411",
+      "name": "Китка"
+    },
+    {
+      "lat": "42.1355189",
+      "lon": "21.7200501",
+      "name": "Zena"
+    },
+    {
+      "lat": "42.0766913",
+      "lon": "21.3988480",
+      "name": "Gradiste kaj s.Brazda"
+    },
+    {
+      "lat": "41.1725653",
+      "lon": "22.7420313",
+      "name": "Казино Хит",
+      "name:en": "Hit Casino"
+    },
+    {
+      "lat": "40.9140062",
+      "lon": "20.7410763",
+      "name": "Хотелски комплекс „Свети Наум“"
+    },
+    {
+      "lat": "40.9299992",
+      "lon": "21.0846302",
+      "name": "Hotel MVR"
+    },
+    {
+      "lat": "41.9505936",
+      "lon": "21.2991931",
+      "name": "Манастир Св. Андреј",
+      "name:en": "Monastery St. Andrej"
+    },
+    {
+      "lat": "41.9518330",
+      "lon": "21.3042042",
+      "name": "Св. Никола"
+    },
+    {
+      "lat": "41.1871817",
+      "lon": "22.7221034",
+      "name": "Музеј на Дојран"
+    },
+    {
+      "lat": "42.0017233",
+      "lon": "21.4617772",
+      "name": "Филип Втори"
+    },
+    {
+      "lat": "41.9983057",
+      "lon": "21.4254968",
+      "name": "Св. Климент Охридски",
+      "name:en": "Clement of Ohrid"
+    },
+    {
+      "lat": "40.8570205",
+      "lon": "21.1195933",
+      "name": "Маркова Нога"
+    },
+    {
+      "lat": "41.9770490",
+      "lon": "21.3747577",
+      "name": "Св. Пантелејмон"
+    },
+    {
+      "lat": "41.6767336",
+      "lon": "22.8968070",
+      "name": "Вила Вакане"
+    },
+    {
+      "lat": "41.6730814",
+      "lon": "22.9094697",
+      "name": "Бистра"
+    },
+    {
+      "lat": "41.9288003",
+      "lon": "21.5227000",
+      "name": "Три Круши"
+    },
+    {
+      "lat": "42.1706665",
+      "lon": "21.8098380",
+      "name": "Костоперска Карпа"
+    },
+    {
+      "lat": "42.2633818",
+      "lon": "21.9531180",
+      "name": "Кокино"
+    },
+    {
+      "lat": "41.9966896",
+      "lon": "21.5496030",
+      "name": "Белви"
+    },
+    {
+      "lat": "41.5901499",
+      "lon": "21.4712294",
+      "name": "Ѕидан Мост",
+      "name:en": "Dzidan Most"
+    },
+    {
+      "lat": "41.1904280",
+      "lon": "22.2825627",
+      "name": "Смрдлива Вода"
+    },
+    {
+      "lat": "41.1800487",
+      "lon": "22.1996948",
+      "name": "Ски Центар Кожуф",
+      "name:en": "Ski Resort Kozuf"
+    },
+    {
+      "lat": "41.3659468",
+      "lon": "22.8995124",
+      "name": "Смоларски Водопади",
+      "name:en": "Smolare Falls"
+    },
+    {
+      "lat": "41.3693502",
+      "lon": "22.8069508",
+      "name": "Колешински водопад",
+      "name:en": "Koleshino Falls"
+    },
+    {
+      "lat": "41.9673209",
+      "lon": "22.3101180",
+      "name": "Пантелеј"
+    },
+    {
+      "lat": "41.9372016",
+      "lon": "22.3728601",
+      "name": "Кај Дабо",
+      "name:en": "Kaj Dabo"
+    },
+    {
+      "lat": "41.8328148",
+      "lon": "22.2356592",
+      "name": "Ваго 2",
+      "name:en": "Vago 2"
+    },
+    {
+      "lat": "41.6151033",
+      "lon": "21.2205568",
+      "name": "Извор",
+      "name:en": "Izvor"
+    },
+    {
+      "lat": "41.5411002",
+      "lon": "21.2443132",
+      "name": "Пешна",
+      "name:en": "Peshna",
+      "website": "www.pesnamotel.com.mk"
+    },
+    {
+      "lat": "41.3403380",
+      "lon": "22.9351752",
+      "name": "2"
+    },
+    {
+      "lat": "41.3524982",
+      "lon": "22.9527929",
+      "name": "3"
+    },
+    {
+      "lat": "42.0720620",
+      "lon": "21.8074776",
+      "name": "Зелено"
+    },
+    {
+      "lat": "42.1355778",
+      "lon": "21.7194275",
+      "name": "Јосип Броз - Тито"
+    },
+    {
+      "lat": "41.4085959",
+      "lon": "22.2447656",
+      "name": "Museum of Wine"
+    },
+    {
+      "lat": "42.2782511",
+      "lon": "21.8500367",
+      "name": "Меморијален центар АСНОМ",
+      "name:en": "Memorial Center ASNOM"
+    },
+    {
+      "lat": "42.2888675",
+      "lon": "22.0459031",
+      "name": "Длабочица"
+    },
+    {
+      "lat": "41.7949320",
+      "lon": "20.9108574",
+      "name": "Sahat Kula"
+    },
+    {
+      "lat": "41.8289199",
+      "lon": "21.6864385",
+      "name": "Manastir Sveta Bogorodica"
+    },
+    {
+      "lat": "42.1068795",
+      "lon": "21.1545235",
+      "name": "Орашко Кале",
+      "name:en": "Orashko Kale"
+    },
+    {
+      "lat": "41.5119269",
+      "lon": "20.9702432",
+      "name": "Саат кула"
+    },
+    {
+      "lat": "41.7140782",
+      "lon": "21.7840512",
+      "name": "Саат кула"
+    },
+    {
+      "lat": "41.2775784",
+      "lon": "22.4937679",
+      "name": "Isar / Idomenae"
+    },
+    {
+      "lat": "41.1026685",
+      "lon": "20.8148154",
+      "name": "Билјанини Извори",
+      "name:en": "Biljana's Springs"
+    },
+    {
+      "lat": "40.9964111",
+      "lon": "20.7972907",
+      "name": "Roman Camp Ruins"
+    },
+    {
+      "lat": "42.0612669",
+      "lon": "21.4436433",
+      "name": "Stojanovski Palace"
+    },
+    {
+      "lat": "41.4293251",
+      "lon": "21.7629669",
+      "name": "Ножот"
+    },
+    {
+      "lat": "41.3451182",
+      "lon": "21.5519842",
+      "name": "Народен Херој Кузман Јосифоски-Питу",
+      "name:en": "People's hero Kuzman Josifoski-Pitu"
+    },
+    {
+      "lat": "42.0775831",
+      "lon": "21.6997303",
+      "name": "Хотел Милано",
+      "name:en": "Hotel Milano"
+    },
+    {
+      "lat": "41.3748344",
+      "lon": "21.2480535",
+      "name": "Питу Гули"
+    },
+    {
+      "lat": "41.1805738",
+      "lon": "20.6776078",
+      "name": "Д-р Никола Незлобински"
+    },
+    {
+      "lat": "41.4533981",
+      "lon": "22.9762168",
+      "name": "31"
+    },
+    {
+      "lat": "41.4723462",
+      "lon": "22.9662076",
+      "name": "32"
+    },
+    {
+      "lat": "41.4930169",
+      "lon": "22.9585216",
+      "name": "34"
+    },
+    {
+      "lat": "41.5295396",
+      "lon": "22.9605185",
+      "name": "35"
+    },
+    {
+      "lat": "41.5423737",
+      "lon": "22.9604199",
+      "name": "36"
+    },
+    {
+      "lat": "41.3649692",
+      "lon": "21.2497316",
+      "name": "Споменик на Питу Гули",
+      "name:en": "Statue of Pitu Guli"
+    },
+    {
+      "lat": "41.5516379",
+      "lon": "21.9751675",
+      "name": "Антички театар",
+      "name:en": "ancient theater of Stobi"
+    },
+    {
+      "lat": "41.5126479",
+      "lon": "20.9514110",
+      "name": "99.4-053"
+    },
+    {
+      "lat": "42.0836218",
+      "lon": "21.9862589",
+      "name": "Цоцев Камен",
+      "name:en": "Cocev Kamen"
+    },
+    {
+      "lat": "41.5323961",
+      "lon": "20.5772167",
+      "name": "Хотел Косоврасти",
+      "name:en": "Hotel Kosovrasti"
+    },
+    {
+      "lat": "41.9230708",
+      "lon": "20.9445463",
+      "name": "Нептун Петрол",
+      "name:en": "Neptun Petrol"
+    },
+    {
+      "lat": "41.4368416",
+      "lon": "22.6379904",
+      "name": "Хотел Централ"
+    },
+    {
+      "lat": "41.1719876",
+      "lon": "22.4904618",
+      "name": "Хотел Јасен",
+      "name:en": "Hotel Jasen",
+      "opening_hours": "24/7"
+    },
+    {
+      "lat": "41.1581681",
+      "lon": "22.4943084",
+      "name": "Хотел Нар",
+      "name:en": "Hotel Nar"
+    },
+    {
+      "lat": "40.9652710",
+      "lon": "20.8113113",
+      "name": "Коритски Рид",
+      "name:en": "Koritski Rigde"
+    },
+    {
+      "lat": "41.1698560",
+      "lon": "20.7104350",
+      "addr:city": "Struga",
+      "contact:phone": "+389 71 30 50 13",
+      "description": "Animal friendly, Children's playground, Private Beach, Refrigerator, TV, Toilets in rooms",
+      "name": "Vila ENHALON",
+      "website": "http://www.tcmc.org.mk/Enhalon.html"
+    },
+    {
+      "lat": "41.1202504",
+      "lon": "20.7992249",
+      "name": "Apartmani Joce"
+    },
+    {
+      "lat": "41.0448534",
+      "lon": "20.8052032",
+      "name": "Robinson Sunset House"
+    },
+    {
+      "lat": "41.4184594",
+      "lon": "22.0181317",
+      "name": "Спомен куќа на Страшо Пинџур",
+      "name:en": "Memorial house - Strasho Pindjur"
+    },
+    {
+      "lat": "40.9856694",
+      "lon": "20.9208605",
+      "name": "Lake View",
+      "website": "https://www.lakeviewotesevo.com/"
+    },
+    {
+      "lat": "41.7913532",
+      "lon": "20.5465802",
+      "name": "Maja e Korabit - Голем Кораб",
+      "name:en": "Mount Korab"
+    },
+    {
+      "lat": "41.0265620",
+      "lon": "21.3295834",
+      "name": "Guesthouse"
+    },
+    {
+      "lat": "42.1491368",
+      "lon": "21.7853235",
+      "name": "Zebrnjak"
+    },
+    {
+      "lat": "42.0853984",
+      "lon": "21.9627449",
+      "name": "Мачка камен",
+      "name:en": "Macka kamen"
+    },
+    {
+      "lat": "41.4182291",
+      "lon": "21.0770931",
+      "name": "Христо Узунов"
+    },
+    {
+      "lat": "41.0678423",
+      "lon": "20.8016787",
+      "name": "Prestol",
+      "opening_hours": "07:00-21:00",
+      "website": "http://www.hotelprestol.com"
+    },
+    {
+      "lat": "41.0272161",
+      "lon": "20.8655541",
+      "name": "Asan Djura"
+    },
+    {
+      "lat": "41.0461961",
+      "lon": "20.8392189",
+      "description": "Map of Galicica National Park with all the hiking and mtb routes and table with their length",
+      "name": "Galicica National Park - Chereshnana"
+    },
+    {
+      "lat": "41.0265726",
+      "lon": "20.8458828",
+      "name": "Samotska Dupka Cave"
+    },
+    {
+      "lat": "41.8038352",
+      "lon": "20.8020471",
+      "name": "Шарски Води"
+    },
+    {
+      "lat": "41.9062629",
+      "lon": "20.9636151",
+      "name": "Споменик на жртви од НОВ"
+    },
+    {
+      "lat": "41.0310731",
+      "lon": "21.2644333",
+      "addr:city": "Дихово",
+      "name": "Villa Dihovo",
+      "website": "http://www.villadihovo.com"
+    },
+    {
+      "lat": "42.1452710",
+      "lon": "21.7225477",
+      "name": "Македонка"
+    },
+    {
+      "lat": "42.1534515",
+      "lon": "21.7301573",
+      "name": "Сателит",
+      "name:en": "Satelit"
+    },
+    {
+      "lat": "41.9613080",
+      "lon": "21.2928640",
+      "name": "Matka canyon viewpoint near golden cross"
+    },
+    {
+      "lat": "41.4748537",
+      "lon": "22.5651714",
+      "name": "Манастир Св. Богородица Елеуса",
+      "name:en": "Monastery of the Mother of God Eleusa"
+    },
+    {
+      "lat": "41.4505759",
+      "lon": "22.5902413",
+      "name": "Манастир Св. Леонтиј",
+      "name:en": "St. Leontius Monastery"
+    },
+    {
+      "lat": "41.8229140",
+      "lon": "21.7360635",
+      "name": "Масакр кај Пуста Кула"
+    },
+    {
+      "lat": "41.3434323",
+      "lon": "21.5479723",
+      "name": "Карпалак 2001"
+    },
+    {
+      "lat": "41.0223734",
+      "lon": "21.3410777",
+      "addr:city": "Bitola",
+      "name": "Domestika Hostel",
+      "website": "http://hostel-domestika-bitola.eu/"
+    },
+    {
+      "lat": "41.3341123",
+      "lon": "21.5546460",
+      "name": "Крипта",
+      "name:en": "Cript"
+    },
+    {
+      "lat": "41.9984102",
+      "lon": "21.3924091",
+      "addr:city": "Cкoпje",
+      "name": "ОК Хотел",
+      "name:en": "OK Hotel",
+      "website": "http://www.okhotel.mk/"
+    },
+    {
+      "lat": "41.6639916",
+      "lon": "21.4285926",
+      "name": "Чеплес",
+      "name:en": "Cheples"
+    },
+    {
+      "lat": "41.7592274",
+      "lon": "22.4169890",
+      "name": "Вртешка",
+      "name:en": "Vrteshka"
+    },
+    {
+      "lat": "41.6760151",
+      "lon": "21.3049471",
+      "name": "Горна Белица",
+      "name:en": "Gorna Belica"
+    },
+    {
+      "lat": "41.2864493",
+      "lon": "22.3256456",
+      "name": "Висока Чука",
+      "name:en": "Visoka Chuka"
+    },
+    {
+      "lat": "41.3925662",
+      "lon": "22.1073625",
+      "name": "Горни Дисан",
+      "name:en": "Gorni Disan"
+    },
+    {
+      "lat": "41.9273661",
+      "lon": "21.7667290",
+      "name": "Дивље",
+      "name:en": "Divlje"
+    },
+    {
+      "lat": "41.3495265",
+      "lon": "22.1960327",
+      "name": "Драчевица"
+    },
+    {
+      "lat": "41.7916949",
+      "lon": "21.4236661",
+      "name": "Караџица",
+      "name:en": "Karadzhica",
+      "website": "https://www.facebook.com/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%B4%D0%BE%D0%BC-%D0%9A%D0%B0%D1%80%D0%B0%D1%9F%D0%B8%D1%86%D0%B0-Mountain-house-Karadzica-181888685230484/"
+    },
+    {
+      "lat": "42.0163552",
+      "lon": "20.8793778",
+      "name": "Љуботен",
+      "name:en": "Ljuboten",
+      "website": "http://www.pkljuboten.org.mk/index.php?option=com_content&view=article&id=85&Itemid=59"
+    },
+    {
+      "lat": "42.2845023",
+      "lon": "21.9277519",
+      "name": "Молотино"
+    },
+    {
+      "lat": "41.5495205",
+      "lon": "21.5042671",
+      "name": "Мокрени"
+    },
+    {
+      "lat": "41.2101825",
+      "lon": "21.9969073",
+      "name": "Мрежичко"
+    },
+    {
+      "lat": "40.9915726",
+      "lon": "21.2813186",
+      "name": "Неолица",
+      "name:en": "Neolica"
+    },
+    {
+      "lat": "41.6416345",
+      "lon": "21.4387051",
+      "name": "Папрадиште",
+      "name:en": "Papradishte"
+    },
+    {
+      "lat": "41.6236949",
+      "lon": "22.3157246",
+      "name": "Плоча"
+    },
+    {
+      "lat": "42.2466736",
+      "lon": "22.0031897",
+      "name": "Појак Калман",
+      "name:en": "Pojak Kalman"
+    },
+    {
+      "lat": "40.9721849",
+      "lon": "21.6407994",
+      "name": "Скочивир"
+    },
+    {
+      "lat": "41.0904700",
+      "lon": "21.7354404",
+      "name": "Старавина"
+    },
+    {
+      "lat": "41.6511623",
+      "lon": "20.8775370",
+      "name": "Tajmište"
+    },
+    {
+      "lat": "41.5816794",
+      "lon": "21.1876474",
+      "name": "Урсус спелеос",
+      "name:en": "Usus Speleos",
+      "website": "https://ursusspeleos.com.mk/"
+    },
+    {
+      "lat": "41.3562648",
+      "lon": "22.8828432",
+      "name": "Шарена Чешма"
+    },
+    {
+      "lat": "41.9751620",
+      "lon": "22.8187714",
+      "name": "Dedo Jakim - Mill"
+    },
+    {
+      "lat": "41.9668611",
+      "lon": "22.7768724",
+      "name": "Гоце Делчев (Биста)",
+      "name:en": "Goce Delchev"
+    },
+    {
+      "lat": "41.9425359",
+      "lon": "22.7954411",
+      "name": "Кула",
+      "name:en": "Kula"
+    },
+    {
+      "lat": "41.9945457",
+      "lon": "21.4417760",
+      "name": "Hotel Kej"
+    },
+    {
+      "lat": "41.9186690",
+      "lon": "22.4118474",
+      "name": "Ледер",
+      "name:en": "Leder",
+      "website": "http://hotelimakedonija.com.mk/mk/Hotel/82/Hotel-Leder-Kocani"
+    },
+    {
+      "lat": "42.0020489",
+      "lon": "21.4401680",
+      "name": "Султан",
+      "name:en": "Sultan"
+    },
+    {
+      "lat": "42.0310065",
+      "lon": "21.4045298",
+      "name": "Луксор",
+      "name:en": "Luxor",
+      "website": "http://hotelimakedonija.com.mk/en/Hotel/86/Hotel-Luxor-Skopje"
+    },
+    {
+      "lat": "41.9431048",
+      "lon": "21.6053588",
+      "name": "Ливија",
+      "name:en": "Livija",
+      "website": "http://hotelimakedonija.com.mk/mk/Hotel/124/Motel-Livija-Skopje"
+    },
+    {
+      "lat": "42.0073634",
+      "lon": "21.4871868",
+      "name": "Hunter’s Lodge “Kamnik”",
+      "name:en": "Hunter’s Lodge “Kamnik”",
+      "website": "http://www.kamnik.com.mk/"
+    },
+    {
+      "lat": "42.0153336",
+      "lon": "21.4079869",
+      "name": "Вергина",
+      "name:en": "Vergina",
+      "website": "http://www.hotelvergina.com/"
+    },
+    {
+      "lat": "42.0477085",
+      "lon": "21.3897191",
+      "name": "Motel Villa"
+    },
+    {
+      "lat": "42.0424822",
+      "lon": "21.4115678",
+      "description": "hotel resto",
+      "name": "New Star"
+    },
+    {
+      "lat": "41.9682709",
+      "lon": "21.4313461",
+      "name": "Маркови Кули",
+      "name:en": "Markovi Kuli"
+    },
+    {
+      "lat": "42.0758863",
+      "lon": "22.1831257",
+      "addr:city": "Кратово",
+      "name": "Св. Јован Крстител",
+      "name:en": "St. John the Baptist"
+    },
+    {
+      "lat": "40.8536596",
+      "lon": "21.1211491",
+      "name": "Г177"
+    },
+    {
+      "lat": "40.8554344",
+      "lon": "21.1306578",
+      "name": "Г175-2"
+    },
+    {
+      "lat": "41.8410032",
+      "lon": "20.9899080",
+      "name": "LastraProjekt"
+    },
+    {
+      "lat": "41.1130805",
+      "lon": "20.8121042",
+      "name": "House Nativa"
+    },
+    {
+      "lat": "41.6775801",
+      "lon": "20.7742112",
+      "name": "Villa Magjike"
+    },
+    {
+      "lat": "42.0112718",
+      "lon": "21.3725440",
+      "name": "Feng Shui Apartments"
+    },
+    {
+      "lat": "41.9968442",
+      "lon": "21.4157891",
+      "name": "Влахо",
+      "opening_hours": "24/7"
+    },
+    {
+      "lat": "41.0868845",
+      "lon": "20.8276341",
+      "name": "Velestovo House "
+    },
+    {
+      "lat": "41.1212560",
+      "lon": "20.8132260",
+      "name": "Hostel Valentin "
+    },
+    {
+      "lat": "41.1791568",
+      "lon": "22.7225812",
+      "name": "Guest House Stefani"
+    },
+    {
+      "lat": "41.0225732",
+      "lon": "21.3127892",
+      "name": "elena"
+    },
+    {
+      "lat": "41.4166941",
+      "lon": "22.7549207",
+      "name": "Гоце Делчев"
+    },
+    {
+      "lat": "41.1216886",
+      "lon": "20.7819966",
+      "name": "Maja, Anja, Zoko Relax"
+    },
+    {
+      "lat": "42.0186038",
+      "lon": "21.5146494",
+      "name": "Strima Residence"
+    },
+    {
+      "lat": "41.3661079",
+      "lon": "21.6749495",
+      "name": "Борка Талески-Модерното / Лазо Филиповски-Лавски",
+      "name:en": "Borka Taleski / Lazo Filipovski"
+    },
+    {
+      "lat": "41.7380866",
+      "lon": "22.1877916",
+      "name": "Меморијален комплекс на паднатите борци на Револуцијата"
+    },
+    {
+      "lat": "41.7330582",
+      "lon": "22.1768285",
+      "name": "Бања \"Ќежовица\"",
+      "name:en": "Spa-Center \"Kezovica\"",
+      "opening_hours": "Mo-Su 08:00-20:00"
+    },
+    {
+      "lat": "41.9130467",
+      "lon": "21.4333848",
+      "name": "Vila Varvarka",
+      "name:en": "Vila Varvarka"
+    },
+    {
+      "lat": "42.0208797",
+      "lon": "21.5102101",
+      "name": "Dullo Residence"
+    },
+    {
+      "lat": "41.7038981",
+      "lon": "20.7598904",
+      "name": "Одмаралиште ЕЛЕМ-Маврови Анови"
+    },
+    {
+      "lat": "41.7104859",
+      "lon": "20.7623970",
+      "addr:city": "Маврови Анови",
+      "description": "Mountain hut, hostel offering accommodation for adventures, climbing tours, ski touring tours and gear, hiking tours, multi day adventures and active retreats and packages. Breakfast and dinner is also available.",
+      "name": "Ski Hut GORICA",
+      "name:en": "Ski Hut GORICA",
+      "website": "http://skihutgorica.com"
+    },
+    {
+      "lat": "41.0302025",
+      "lon": "21.3347596",
+      "name": "Статуа Филип II",
+      "name:en": "Philip II Statue"
+    },
+    {
+      "lat": "41.1386060",
+      "lon": "22.5523332",
+      "name": "Такси Ацко",
+      "name:en": "Taxi Acko",
+      "opening_hours": "24/7"
+    },
+    {
+      "lat": "41.1606721",
+      "lon": "20.6503978",
+      "name": "Sunrise",
+      "opening_hours": "24/7",
+      "website": "https://www.campingsunrise.eu/"
+    },
+    {
+      "lat": "41.1229582",
+      "lon": "20.8253145",
+      "name": "Doma"
+    },
+    {
+      "lat": "41.6030428",
+      "lon": "20.5950118",
+      "name": "Дуф",
+      "name:en": "Duf"
+    },
+    {
+      "lat": "41.9939913",
+      "lon": "21.0276195",
+      "name": "Петрол Компани",
+      "name:en": "Hotel Petrol Company"
+    },
+    {
+      "lat": "41.9236123",
+      "lon": "20.9166613",
+      "name": "Park",
+      "name:en": "Park"
+    },
+    {
+      "lat": "42.1373916",
+      "lon": "21.7042207",
+      "name": "adra home",
+      "name:en": "adra home"
+    },
+    {
+      "lat": "41.1959384",
+      "lon": "22.7164555",
+      "name": "Плажа Карач"
+    },
+    {
+      "lat": "41.6819113",
+      "lon": "21.2773020",
+      "name": "Белица -> Бегово",
+      "name:en": "Belica towards Begovo"
+    },
+    {
+      "lat": "41.7421767",
+      "lon": "22.1990976",
+      "name": "Ники",
+      "name:en": "Niki"
+    },
+    {
+      "lat": "41.7369271",
+      "lon": "21.7908540",
+      "name": "Лисец",
+      "name:en": "Lisec"
+    },
+    {
+      "lat": "41.5130946",
+      "lon": "20.9663459",
+      "name": "Китино Кале",
+      "name:en": "Kita Castle"
+    },
+    {
+      "lat": "42.3110963",
+      "lon": "22.3602199",
+      "name": "Шуплив Камен"
+    },
+    {
+      "lat": "41.3413087",
+      "lon": "22.9282524",
+      "name": "1a"
+    },
+    {
+      "lat": "41.0312534",
+      "lon": "20.8058338",
+      "name": "Anmarin villa",
+      "name:en": "Anmarin villa",
+      "website": "http://www.anmarin.com"
+    },
+    {
+      "lat": "42.1906739",
+      "lon": "22.3593935",
+      "name": "Vila Ana Marija"
+    },
+    {
+      "lat": "41.2788101",
+      "lon": "20.7836677",
+      "name": "Ботун"
+    },
+    {
+      "lat": "41.1582630",
+      "lon": "22.5006786",
+      "name": "Споменик на слободата",
+      "name:en": "Monument of freedom"
+    },
+    {
+      "lat": "41.1176909",
+      "lon": "20.8213829",
+      "addr:city": "Охрид",
+      "name": "Guest House Hristiva"
+    },
+    {
+      "lat": "41.0128310",
+      "lon": "20.8087590",
+      "addr:city": "Peshtani",
+      "name": "Apartmani Basoski"
+    },
+    {
+      "lat": "42.0026457",
+      "lon": "21.3630234",
+      "name": "Колективен Објект за Димување - Зградс",
+      "name:en": "Collective housing - flats (Building)"
+    },
+    {
+      "lat": "42.0117796",
+      "lon": "21.4452420",
+      "name": "Alba Hotel"
+    },
+    {
+      "lat": "41.3738524",
+      "lon": "21.5025867",
+      "name": "Борецот"
+    },
+    {
+      "lat": "41.9730410",
+      "lon": "22.7799224",
+      "name": "Твив арт",
+      "name:en": "Tviv art"
+    },
+    {
+      "lat": "41.9633464",
+      "lon": "21.4405542",
+      "name": "ЈОВИЦА РЕЗИДЕНЦИЈА",
+      "name:en": "Jovica's Residence"
+    },
+    {
+      "lat": "42.0231523",
+      "lon": "20.7857053",
+      "name": "Долна Лешница"
+    },
+    {
+      "lat": "41.1220279",
+      "lon": "20.7708293",
+      "name": "Scout Camp"
+    },
+    {
+      "lat": "42.1001610",
+      "lon": "21.4618917",
+      "name": "Vila Kum"
+    },
+    {
+      "lat": "41.8096384",
+      "lon": "21.4469280",
+      "name": "Вила Принц",
+      "name:en": "Villa Prince"
+    },
+    {
+      "lat": "41.1949939",
+      "lon": "22.6878453",
+      "name": "Споменик „Солунски фронт“ од I светска војна",
+      "name:en": "World War I Salonica Front memorial"
+    },
+    {
+      "lat": "42.0786957",
+      "lon": "22.1794714",
+      "name": "Симиќева кула",
+      "name:en": "Simikj Tower"
+    },
+    {
+      "lat": "41.4886578",
+      "lon": "22.0891251",
+      "name": "Хаусе Ла Страда",
+      "name:en": "House La Strada"
+    },
+    {
+      "lat": "41.4415393",
+      "lon": "21.9977886",
+      "name": "Уни Палас 2",
+      "name:en": "Uni Palas 2"
+    },
+    {
+      "lat": "41.4409796",
+      "lon": "22.6796979",
+      "name": "Струмица-Кристал-64"
+    },
+    {
+      "lat": "41.3384543",
+      "lon": "22.9275511",
+      "name": "Тумба / Τούμπα",
+      "name:en": "Tumba"
+    },
+    {
+      "lat": "42.0012377",
+      "lon": "21.3986567",
+      "name": "Havanska 4"
+    },
+    {
+      "lat": "41.9767479",
+      "lon": "21.4442957",
+      "name": "Сава Ковачевиќ 47 т"
+    },
+    {
+      "lat": "41.9973080",
+      "lon": "21.4964989",
+      "name": "Blagoja Stefkovski 27"
+    },
+    {
+      "lat": "42.0001963",
+      "lon": "21.3871218",
+      "name": "Будимпештанска 14"
+    },
+    {
+      "lat": "41.9835067",
+      "lon": "21.4582162",
+      "name": "Vasko Karangeleski 17"
+    },
+    {
+      "lat": "42.0289050",
+      "lon": "21.3816090",
+      "name": "Ruska rezidencija"
+    },
+    {
+      "lat": "42.0288099",
+      "lon": "21.3790230",
+      "name": "Ulica 6 br 52"
+    },
+    {
+      "lat": "41.9756138",
+      "lon": "21.4740568",
+      "name": "Gavril Konstantinovik 32a"
+    },
+    {
+      "lat": "41.0067740",
+      "lon": "21.3415263",
+      "name": "Св. Троица",
+      "name:en": "St. Trinity"
+    },
+    {
+      "lat": "41.1694060",
+      "lon": "20.8371270",
+      "name": "Дувало",
+      "name:en": "Duvalo"
+    },
+    {
+      "lat": "41.8771924",
+      "lon": "20.5943749",
+      "name": "Шерупа / Sherupa / Maja Ksulje e Priftit",
+      "name:en": "Sherupa"
+    },
+    {
+      "lat": "42.1323055",
+      "lon": "21.3328936",
+      "name": "Вила Блаце",
+      "name:en": "Villa Blacë",
+      "opening_hours": "24/7"
+    },
+    {
+      "lat": "41.8103057",
+      "lon": "21.4427131",
+      "name": "Вила Принц",
+      "name:en": "Villa Prince"
+    },
+    {
+      "lat": "41.1408672",
+      "lon": "22.5124945",
+      "description": "2nd floor apartment. Rented daily basis.",
+      "name": "Magnolia Apartment"
+    },
+    {
+      "lat": "40.9228096",
+      "lon": "20.7763282",
+      "name": "Bunker"
+    },
+    {
+      "lat": "40.9612302",
+      "lon": "20.7827389",
+      "name": "Villa Filip"
+    },
+    {
+      "lat": "41.9390026",
+      "lon": "21.6199181",
+      "name": "Mirror",
+      "website": "https://www.hotelmirror.mk/"
+    },
+    {
+      "lat": "41.6965473",
+      "lon": "20.7993456",
+      "name": "Вила Лазарески",
+      "name:en": "Vila Lazareski"
+    },
+    {
+      "lat": "41.1846147",
+      "lon": "22.7193183",
+      "name": "Вила Оаза",
+      "name:en": "Vila Oaza"
+    },
+    {
+      "lat": "41.1512525",
+      "lon": "20.6512326",
+      "name": "Camping Lakeside",
+      "opening_hours": "24/7",
+      "website": "https://www.facebook.com/lakeside.mk/"
+    },
+    {
+      "lat": "41.1640337",
+      "lon": "20.7515086",
+      "name": "Vila SeVa"
+    },
+    {
+      "lat": "41.0240503",
+      "lon": "21.0506131",
+      "name": "Eтнолошки музеј",
+      "name:en": "Ethnographic museum"
+    },
+    {
+      "lat": "42.1003011",
+      "lon": "21.9665342",
+      "name": "Konjuh"
+    },
+    {
+      "lat": "42.0949995",
+      "lon": "21.9658672",
+      "name": "Rotonda Konjuh"
+    },
+    {
+      "lat": "41.7995125",
+      "lon": "22.2898290",
+      "name": "Bargala"
+    },
+    {
+      "lat": "41.7619210",
+      "lon": "22.8867882",
+      "name": "Хотел Гогов",
+      "name:en": "Hotel Gogov"
+    },
+    {
+      "lat": "41.7308262",
+      "lon": "22.9337044",
+      "name": "Спиковски Водопади"
+    },
+    {
+      "lat": "41.7301995",
+      "lon": "22.9080976",
+      "name": "Равна Река",
+      "name:en": "Ravna Reka"
+    },
+    {
+      "lat": "41.7335161",
+      "lon": "22.9695786",
+      "name": "Равна Река",
+      "name:en": "Ravna reka"
+    },
+    {
+      "lat": "41.7328747",
+      "lon": "22.9572589",
+      "name": "Чодосова колиба"
+    },
+    {
+      "lat": "41.6570076",
+      "lon": "22.9692869",
+      "name": "Клепало",
+      "name:en": "Klepalo"
+    },
+    {
+      "lat": "41.7273576",
+      "lon": "22.9874666",
+      "name": "Скокото"
+    },
+    {
+      "lat": "41.0830455",
+      "lon": "21.0306352",
+      "name": "Св.Петар и Павле манастирче",
+      "name:en": "St.Piter and Paul church"
+    },
+    {
+      "lat": "41.5211794",
+      "lon": "20.9184138",
+      "name": "House of art"
+    },
+    {
+      "lat": "41.6617370",
+      "lon": "20.7322253",
+      "name": "Кај професорот Цветковић"
+    },
+    {
+      "lat": "41.7093532",
+      "lon": "20.6878850",
+      "name": "Trnica"
+    },
+    {
+      "lat": "41.5939237",
+      "lon": "20.6527230",
+      "name": "Museum of Galichnik's cultural heritage"
+    },
+    {
+      "lat": "41.0900379",
+      "lon": "20.7990804",
+      "name": "Hotel Park"
+    },
+    {
+      "lat": "41.1357078",
+      "lon": "22.4908565",
+      "name": "Вила Катерина",
+      "name:en": "Vila Katerina"
+    },
+    {
+      "lat": "41.9586194",
+      "lon": "21.4421896",
+      "name": "Residence"
+    },
+    {
+      "lat": "41.7300302",
+      "lon": "22.9796268",
+      "name": "Дебел Рид",
+      "name:en": "Debel Rid"
+    },
+    {
+      "lat": "41.9885405",
+      "lon": "21.2926787",
+      "name": "patarina-160"
+    },
+    {
+      "lat": "41.8289715",
+      "lon": "21.9562049",
+      "name": "Kanda - Geoglif Sv. Nikole",
+      "website": "https://www.ancient-origins.net/news-history-archaeology/astronomical-alignment-geoglyph-republic-macedonia-020170"
+    },
+    {
+      "lat": "41.7213441",
+      "lon": "22.6569551",
+      "name": "Споменик на Малешевскиот (Малешки) народноослободителен одред"
+    },
+    {
+      "lat": "41.7193458",
+      "lon": "21.7682757",
+      "name": "Zgrada",
+      "name:en": "Building"
+    },
+    {
+      "lat": "40.9578024",
+      "lon": "20.7807897",
+      "name": "Grebnos RV Park and Camping",
+      "name:en": "Grebnos RV Park and Camping",
+      "website": "http://www.grebnos.com"
+    },
+    {
+      "lat": "41.0995418",
+      "lon": "20.8171019",
+      "name": "Casa Farmak"
+    },
+    {
+      "lat": "41.0043725",
+      "lon": "20.9282003",
+      "name": "Кале",
+      "name:en": "Kale"
+    },
+    {
+      "lat": "41.1213876",
+      "lon": "20.8007499",
+      "name": "Вила Арсови"
+    },
+    {
+      "lat": "41.9856377",
+      "lon": "22.5905605",
+      "name": "Калата",
+      "name:en": "Kalata"
+    },
+    {
+      "lat": "41.7783028",
+      "lon": "20.8658030",
+      "name": "Panorama"
+    },
+    {
+      "lat": "41.6952366",
+      "lon": "21.6281720",
+      "name": "Бањичко Кале",
+      "name:en": "Banjica Fortress"
+    },
+    {
+      "lat": "40.9536539",
+      "lon": "21.0720023",
+      "name": "Coca Beach Bar"
+    },
+    {
+      "lat": "41.0911248",
+      "lon": "20.8003779",
+      "name": "Camperstop KJ Divono"
+    },
+    {
+      "lat": "41.5784668",
+      "lon": "21.9447499",
+      "name": "Hotel z"
+    },
+    {
+      "lat": "41.4158469",
+      "lon": "22.2286905",
+      "name": "Verdisso"
+    },
+    {
+      "lat": "41.3747079",
+      "lon": "20.7630424",
+      "name": "Mirče Acev Bataljon",
+      "website": "https://en.m.wikipedia.org/wiki/People%27s_Liberation_Army_of_Macedonia"
+    },
+    {
+      "lat": "41.7863558",
+      "lon": "20.8736743",
+      "name": "Imperial"
+    },
+    {
+      "lat": "41.2754595",
+      "lon": "21.3684104",
+      "name": "Љубе Грујоски",
+      "name:en": "Ljube Grujoski"
+    },
+    {
+      "lat": "41.6336470",
+      "lon": "22.4571824",
+      "name": "PANORAMA"
+    },
+    {
+      "lat": "41.9927005",
+      "lon": "21.3190650",
+      "name": "berlin",
+      "name:en": "berlyn"
+    },
+    {
+      "lat": "41.2407209",
+      "lon": "20.5816641",
+      "name": "Старча"
+    },
+    {
+      "lat": "42.0078524",
+      "lon": "20.9793686",
+      "name": "Dare promet Helios"
+    },
+    {
+      "lat": "42.0058770",
+      "lon": "20.9692186",
+      "name": "Aka Boja Helios"
+    },
+    {
+      "lat": "41.7943328",
+      "lon": "20.9051255",
+      "name": "Afomaz Helios"
+    },
+    {
+      "lat": "41.8010487",
+      "lon": "20.9062626",
+      "name": "Ako Gradba Helios"
+    },
+    {
+      "lat": "41.0157263",
+      "lon": "21.3475881",
+      "name": "Eri corporation Bitola"
+    },
+    {
+      "lat": "41.9568377",
+      "lon": "21.5811404",
+      "name": "Majami Dooel"
+    },
+    {
+      "lat": "41.1850048",
+      "lon": "20.7762352",
+      "name": "AXX110 / RA-42390"
+    },
+    {
+      "lat": "41.9779001",
+      "lon": "21.6157628",
+      "name": "PMK301 / PH-KXL"
+    },
+    {
+      "lat": "41.3724643",
+      "lon": "21.5605466",
+      "name": "Дабнички масакр",
+      "name:en": "Masacre of Dabnica"
+    },
+    {
+      "lat": "41.2064953",
+      "lon": "21.6536957",
+      "name": "Толе Паша",
+      "name:en": "Tole Pasha"
+    },
+    {
+      "lat": "42.0224160",
+      "lon": "21.5476216",
+      "name": "Ацо Ангеловски"
+    },
+    {
+      "lat": "41.9764851",
+      "lon": "21.1660504",
+      "name": "Нане Наумоски"
+    },
+    {
+      "lat": "41.9778470",
+      "lon": "21.1773385",
+      "name": "Сашо Китаноски"
+    },
+    {
+      "lat": "41.4417498",
+      "lon": "22.6379903",
+      "name": "golf kurcenje"
+    },
+    {
+      "lat": "41.0447121",
+      "lon": "21.2143499",
+      "name": "Голема Ливада",
+      "name:en": "Large Meadow"
+    },
+    {
+      "lat": "41.3575814",
+      "lon": "21.6256855",
+      "name": "Карпалак"
+    },
+    {
+      "lat": "41.4014262",
+      "lon": "22.0284286",
+      "name": "Масакр во Ваташа",
+      "name:en": "Vatasha Massacre"
+    },
+    {
+      "lat": "41.4436592",
+      "lon": "20.8721449",
+      "name": "Duko Tasev"
+    },
+    {
+      "lat": "41.4831122",
+      "lon": "20.9229426",
+      "name": "Гоце Делчев"
+    },
+    {
+      "lat": "41.4528994",
+      "lon": "20.9658462",
+      "name": "Битката на Ѓурѓејца",
+      "name:en": "Battle of Gjurgjejca"
+    },
+    {
+      "lat": "41.8646892",
+      "lon": "21.9420620",
+      "name": "Споменик Св. Никола",
+      "name:en": "Monument of St. Nicholas"
+    },
+    {
+      "lat": "41.8627557",
+      "lon": "21.9386585",
+      "name": "Св. Илија"
+    },
+    {
+      "lat": "41.0102064",
+      "lon": "21.2195227",
+      "name": "Crveni Steni (Red Rocks)"
+    },
+    {
+      "lat": "41.3464944",
+      "lon": "21.5629735",
+      "name": "Кире Гаврилоски-Јане / Круме Волнароски-Коља",
+      "name:en": "Kire Gavriloski-Jane / Krume Volnaroski-Kolja"
+    },
+    {
+      "lat": "41.0846970",
+      "lon": "20.7972458",
+      "name": "Хотел Инекс Горица"
+    },
+    {
+      "lat": "41.1341401",
+      "lon": "20.8303506",
+      "addr:city": "Ohrid",
+      "name": "Ograda"
+    },
+    {
+      "lat": "41.3597742",
+      "lon": "21.5348671",
+      "name": "ТИТО"
+    },
+    {
+      "lat": "41.9397621",
+      "lon": "21.5193379",
+      "name": "Mesut"
+    },
+    {
+      "lat": "41.8668125",
+      "lon": "21.6650899",
+      "name": "VAM-304"
+    },
+    {
+      "lat": "41.4498577",
+      "lon": "22.6491133",
+      "name": "МАР-7712"
+    },
+    {
+      "lat": "41.3660450",
+      "lon": "20.6489384",
+      "name": "1. Бригада",
+      "name:en": "1st Brigade"
+    },
+    {
+      "lat": "42.0673767",
+      "lon": "20.9185104",
+      "name": "Вејце"
+    },
+    {
+      "lat": "41.7223776",
+      "lon": "20.7349061",
+      "name": "Villa Vrben"
+    },
+    {
+      "lat": "41.6696868",
+      "lon": "21.0551795",
+      "name": "Dobra voda"
+    },
+    {
+      "lat": "42.1215350",
+      "lon": "21.7435248",
+      "addr:city": "Kumanovo",
+      "name": "Kumanovo Spa"
+    },
+    {
+      "lat": "42.0537619",
+      "lon": "20.8276771",
+      "addr:city": "Бозовце",
+      "name": "Afrim Guest House"
+    },
+    {
+      "lat": "42.0371952",
+      "lon": "21.4505652",
+      "name": "Резиденција Чапов",
+      "name:en": "Residential Home Chapov"
+    },
+    {
+      "lat": "41.9988251",
+      "lon": "21.4506665",
+      "name": "Генерал Михајло Апостолски"
+    },
+    {
+      "lat": "41.6560282",
+      "lon": "21.0216359",
+      "name": "Sultana"
+    },
+    {
+      "lat": "41.7192252",
+      "lon": "20.8817320",
+      "name": "Xhemë Hasa"
+    },
+    {
+      "lat": "41.5964956",
+      "lon": "20.9510739",
+      "name": "Albanian Mother"
+    },
+    {
+      "lat": "41.0417783",
+      "lon": "21.2251090",
+      "name": "Мала Ливада"
+    },
+    {
+      "lat": "41.0108476",
+      "lon": "21.3208996",
+      "name": "Св. Георгиј",
+      "name:en": "St. George"
+    },
+    {
+      "lat": "42.0640097",
+      "lon": "21.0288552",
+      "name": "Ѓоко Лазаревски",
+      "name:en": "Gjoko Lazarevski"
+    },
+    {
+      "lat": "42.0700178",
+      "lon": "21.0272120",
+      "name": "Теодорит"
+    },
+    {
+      "lat": "41.5157755",
+      "lon": "20.5332267",
+      "name": "Leon Hotel"
+    },
+    {
+      "lat": "41.3453092",
+      "lon": "22.7642122",
+      "name": "Belasica Mountain"
+    },
+    {
+      "lat": "41.3842185",
+      "lon": "22.7436931",
+      "name": "Banja Bansko"
+    },
+    {
+      "lat": "41.3754287",
+      "lon": "22.7893691",
+      "name": "Gabrovo Waterfalls"
+    },
+    {
+      "lat": "41.3117093",
+      "lon": "22.6972972",
+      "name": "Kochulski Waterfalls"
+    },
+    {
+      "lat": "42.2089207",
+      "lon": "22.3621503",
+      "name": "Saint Joachim Osogovski"
+    },
+    {
+      "lat": "41.1488082",
+      "lon": "22.5220207",
+      "name": "Vardarski Rid"
+    },
+    {
+      "lat": "42.3075770",
+      "lon": "21.9320354",
+      "name": "Kozjak Mountain"
+    },
+    {
+      "lat": "42.1804509",
+      "lon": "22.3941964",
+      "name": "Stanecki Vodopadi"
+    },
+    {
+      "lat": "41.0145490",
+      "lon": "20.8534922",
+      "name": "Galicica"
+    },
+    {
+      "lat": "41.3643261",
+      "lon": "21.6070578",
+      "name": "Св. Петка",
+      "name:en": "St. Parascheva"
+    },
+    {
+      "lat": "41.2045110",
+      "lon": "21.4572557",
+      "name": "Братска гробница"
+    },
+    {
+      "lat": "41.9755167",
+      "lon": "21.6216919",
+      "name": "Сухои Су-25УБ",
+      "name:en": "Sukhoi Su25UB"
+    },
+    {
+      "lat": "41.4286415",
+      "lon": "21.6200758",
+      "name": "Игуменија Катерина"
+    },
+    {
+      "lat": "41.1010591",
+      "lon": "20.6333143",
+      "name": "Freeflow Hostel",
+      "opening_hours": "24/7",
+      "website": "https://www.facebook.com/freeflowhostel/"
+    },
+    {
+      "lat": "41.2112955",
+      "lon": "20.9400905",
+      "name": "Natural washing machines"
+    },
+    {
+      "lat": "41.0442769",
+      "lon": "21.2515363",
+      "name": "Трново",
+      "name:en": "Trnovo"
+    },
+    {
+      "lat": "41.8781835",
+      "lon": "20.8876605",
+      "name": "Naim Frasheri"
+    },
+    {
+      "lat": "41.9998775",
+      "lon": "22.1784244",
+      "name": "Свети Гаврил Лесновски 22 / 5,000 Translation results Свети Гаврил Лесновски"
+    },
+    {
+      "lat": "41.4512932",
+      "lon": "22.6471258",
+      "name": "Hotel Eterno"
+    },
+    {
+      "lat": "41.8768098",
+      "lon": "22.5027575",
+      "name": "Viničko Kale"
+    },
+    {
+      "lat": "41.1897759",
+      "lon": "22.3244855",
+      "name": "Планинарски дом Томе Шутов Кротки",
+      "website": "https://zpskkozuf.mk/"
+    },
+    {
+      "lat": "41.1749613",
+      "lon": "20.6815069",
+      "name": "Ideal"
+    },
+    {
+      "lat": "41.9887000",
+      "lon": "21.0748800",
+      "name": "AGP Hotel"
+    },
+    {
+      "lat": "41.3586252",
+      "lon": "21.5409723",
+      "name": "Слонот",
+      "name:en": "The Elephant"
+    },
+    {
+      "lat": "41.9934525",
+      "lon": "21.5188778",
+      "name": "Compass Service",
+      "opening_hours": "24/7"
+    },
+    {
+      "lat": "42.1546790",
+      "lon": "21.4615364",
+      "name": "Спирова колиба"
+    },
+    {
+      "lat": "41.1128328",
+      "lon": "20.6362539",
+      "name": "Lakeside 2"
+    },
+    {
+      "lat": "41.9538189",
+      "lon": "21.2888220",
+      "name": "Света Троица и Свети Ѓорѓија",
+      "name:en": "Holy Trinity and Holy George"
+    },
+    {
+      "lat": "41.8913869",
+      "lon": "21.2227690",
+      "description": "In construction",
+      "name": "Hotel Kozjak"
+    },
+    {
+      "lat": "41.7613605",
+      "lon": "21.0181065",
+      "name": "Peklishte"
+    },
+    {
+      "lat": "41.0587266",
+      "lon": "21.2648169",
+      "name": "Camp Ambasador Bratin Dol",
+      "opening_hours": "24/7"
+    },
+    {
+      "lat": "41.8117124",
+      "lon": "21.1617392",
+      "name": "Голема Пеш",
+      "name:en": "Golema Pesht"
+    },
+    {
+      "lat": "41.1801611",
+      "lon": "20.6802963",
+      "name": "Dritans House"
+    },
+    {
+      "lat": "41.9304299",
+      "lon": "21.6031224",
+      "name": "Storks – Shtrkovi – Штркови",
+      "name:en": "Storks – Shtrkovi – Штркови",
+      "website": "https://airbnb.com/h/storks-petrovec"
+    },
+    {
+      "lat": "40.9106981",
+      "lon": "20.7394337",
+      "name": "Воено Одморалиште \"Генерал Васко Карангелевски\""
+    },
+    {
+      "lat": "41.0904168",
+      "lon": "20.6336653",
+      "name": "Елен Камен"
+    },
+    {
+      "lat": "41.0893899",
+      "lon": "20.6337002",
+      "name": "Елен Камен"
+    },
+    {
+      "lat": "40.9247713",
+      "lon": "20.7699805",
+      "name": "Авто камп Свети Наум",
+      "name:en": "Auto Camp Sveti Naum"
+    },
+    {
+      "lat": "40.9950671",
+      "lon": "20.8006111",
+      "name": "Градиште",
+      "name:en": "Gradishte"
+    },
+    {
+      "lat": "41.0516589",
+      "lon": "20.8200227",
+      "addr:city": "Коњско",
+      "name": "Планинарски дом Троуглеш"
+    },
+    {
+      "lat": "41.0793509",
+      "lon": "20.7996332",
+      "name": "Хотел Славија Спектар",
+      "name:en": "Hotel Slavija Spektar"
+    },
+    {
+      "lat": "41.1400094",
+      "lon": "20.6459622",
+      "name": "Хотел Макпетрол"
+    },
+    {
+      "lat": "41.1399784",
+      "lon": "20.6458820",
+      "name": "Хотел Макпетрол"
+    },
+    {
+      "lat": "41.1453178",
+      "lon": "20.6503625",
+      "addr:city": "Струга",
+      "contact:phone": "+389 46 785700",
+      "name": "Хотел Бисер",
+      "website": "http://www.hotelbiser.com.mk/"
+    },
+    {
+      "lat": "41.1729369",
+      "lon": "20.7156725",
+      "name": "АС Струга"
+    },
+    {
+      "lat": "41.1473553",
+      "lon": "20.7601528",
+      "name": "Коцарев"
+    },
+    {
+      "lat": "41.1579642",
+      "lon": "20.7528452",
+      "name": "Амбасадор"
+    },
+    {
+      "lat": "41.2396675",
+      "lon": "20.5848529",
+      "name": "Вевчански Извори",
+      "name:en": "Vevchani Springs"
+    },
+    {
+      "lat": "41.1392618",
+      "lon": "20.7876502",
+      "addr:city": "Ohrid",
+      "name": "Villa Kliment"
+    },
+    {
+      "lat": "41.5097529",
+      "lon": "20.9580816",
+      "addr:city": "Кичево",
+      "name": "Хотел Кичево",
+      "name:en": "Hotel Kicevo"
+    },
+    {
+      "lat": "40.8670196",
+      "lon": "20.9886946",
+      "name": "Стара базилика",
+      "name:en": "Old Basilica"
+    },
+    {
+      "lat": "40.8681061",
+      "lon": "20.9904545",
+      "name": "Римска цистерна",
+      "name:en": "Roman Cistern"
+    },
+    {
+      "lat": "40.9344519",
+      "lon": "21.0812940",
+      "name": "Кампувалиште „Крани“"
+    },
+    {
+      "lat": "40.9859500",
+      "lon": "21.0850398",
+      "name": "Св. Георгиј",
+      "name:en": "St. George"
+    },
+    {
+      "lat": "41.0045205",
+      "lon": "21.1684253",
+      "name": "Планинарски дом Широка",
+      "name:en": "Shiroka"
+    },
+    {
+      "lat": "40.9695787",
+      "lon": "21.2052772",
+      "name": "Димитар Илиевски-Мурато",
+      "name:en": "Dimitar Ilievski-Murato",
+      "opening_hours": "Sa,Su,PH"
+    },
+    {
+      "lat": "41.0156132",
+      "lon": "21.3309392",
+      "name": "Битолска Тврдина",
+      "name:en": "Fortress of Bitola"
+    },
+    {
+      "lat": "40.9883335",
+      "lon": "21.3408781",
+      "name": "Манастир Св. Христофор",
+      "name:en": "Monastery St. Christopher"
+    },
+    {
+      "lat": "41.0380718",
+      "lon": "21.2970310",
+      "name": "Капри",
+      "name:en": "Kapri"
+    },
+    {
+      "lat": "41.0410392",
+      "lon": "21.3585444",
+      "name": "Mémorial de Bitola"
+    },
+    {
+      "lat": "40.9695480",
+      "lon": "21.6424093",
+      "name": "Манастир Св. Архангел Михаил"
+    },
+    {
+      "lat": "40.9307272",
+      "lon": "21.7860107",
+      "name": "Св. Петар",
+      "name:en": "St. Peter"
+    },
+    {
+      "lat": "41.0877761",
+      "lon": "21.7434498",
+      "name": "Пешта",
+      "name:en": "Peshta"
+    },
+    {
+      "lat": "41.2382780",
+      "lon": "21.2004225",
+      "name": "Гориче",
+      "name:en": "Goriche"
+    },
+    {
+      "lat": "41.2404842",
+      "lon": "21.2173760",
+      "name": "Градиште",
+      "name:en": "Gradishte"
+    },
+    {
+      "lat": "41.2581037",
+      "lon": "21.3155840",
+      "name": "Кале"
+    },
+    {
+      "lat": "41.5070976",
+      "lon": "21.2735444",
+      "name": "Кула",
+      "name:en": "Kula"
+    },
+    {
+      "lat": "41.5183198",
+      "lon": "21.3492262",
+      "name": "Св. Никола",
+      "name:en": "St. Nicholas"
+    },
+    {
+      "lat": "41.5233064",
+      "lon": "21.3421019",
+      "name": "Кале",
+      "name:en": "Kale"
+    },
+    {
+      "lat": "41.2018152",
+      "lon": "21.4000720",
+      "name": "Мучеинци",
+      "name:en": "Mucheinci"
+    },
+    {
+      "lat": "41.2064705",
+      "lon": "21.5884945",
+      "name": "Старо Бонче",
+      "name:en": "Staro Bonche"
+    },
+    {
+      "lat": "41.2437372",
+      "lon": "21.3972749",
+      "name": "Стибера",
+      "name:en": "Stibera"
+    },
+    {
+      "lat": "41.2598752",
+      "lon": "21.5665078",
+      "name": "Св. Георгиј",
+      "name:en": "St. George"
+    },
+    {
+      "lat": "41.2896050",
+      "lon": "21.5960672",
+      "name": "19.12.1942"
+    },
+    {
+      "lat": "41.2994709",
+      "lon": "21.5896937",
+      "name": "Марков Ѕид",
+      "name:en": "Marko's Wall"
+    },
+    {
+      "lat": "41.1969315",
+      "lon": "21.6518979",
+      "name": "Бабо",
+      "name:en": "Babo"
+    },
+    {
+      "lat": "41.2081898",
+      "lon": "21.6158057",
+      "name": "Пелагон",
+      "name:en": "Pelagon"
+    },
+    {
+      "lat": "41.2047717",
+      "lon": "21.6439389",
+      "name": "Градиште",
+      "name:en": "Gradishte"
+    },
+    {
+      "lat": "41.1645364",
+      "lon": "21.7251172",
+      "name": "Мариовски Манастир",
+      "name:en": "Monastery of Mariovo"
+    },
+    {
+      "lat": "41.2057389",
+      "lon": "21.7169819",
+      "name": "Градот / Маркови Кули",
+      "name:en": "Gradot / Markovi Kuli"
+    },
+    {
+      "lat": "41.3285763",
+      "lon": "21.6160808",
+      "name": "Томе Темелкоски",
+      "name:en": "Tome Temelkoski"
+    },
+    {
+      "lat": "41.4073498",
+      "lon": "21.5385876",
+      "name": "Трескавец",
+      "name:en": "Treskavec"
+    },
+    {
+      "lat": "41.4493541",
+      "lon": "21.5583418",
+      "name": "Спомен-дом Блаже Конески",
+      "name:en": "Blazhe Koneski Memorial House"
+    },
+    {
+      "lat": "41.0661481",
+      "lon": "22.0977042",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0516561",
+      "lon": "22.1038585",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0528804",
+      "lon": "22.1107608",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0512807",
+      "lon": "22.1210124",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0585993",
+      "lon": "22.0992560",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0708782",
+      "lon": "22.0967004",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0806002",
+      "lon": "22.0922156",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0813658",
+      "lon": "22.0896575",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0913087",
+      "lon": "22.0893695",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1002555",
+      "lon": "22.0899112",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1032194",
+      "lon": "22.0920283",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1100861",
+      "lon": "22.0950341",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0532459",
+      "lon": "22.1362991",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0536478",
+      "lon": "22.1424248",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0555405",
+      "lon": "22.1565139",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0574880",
+      "lon": "22.1614629",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0614105",
+      "lon": "22.1699599",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0610765",
+      "lon": "22.1743724",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0724266",
+      "lon": "22.1704551",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0790690",
+      "lon": "22.1690030",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0807315",
+      "lon": "22.1687566",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0861715",
+      "lon": "22.1710749",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0908433",
+      "lon": "22.1695437",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0914359",
+      "lon": "22.1750672",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0955384",
+      "lon": "22.1822293",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.0982481",
+      "lon": "22.1907657",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1006693",
+      "lon": "22.1970410",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1011336",
+      "lon": "22.2009002",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1016925",
+      "lon": "22.2141027",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1020121",
+      "lon": "22.2217043",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1029997",
+      "lon": "22.2300891",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1018004",
+      "lon": "22.2408024",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1009453",
+      "lon": "22.2509721",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1006690",
+      "lon": "22.2623761",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1113579",
+      "lon": "22.2671378",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1118461",
+      "lon": "22.2706084",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1206868",
+      "lon": "22.1040093",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1307691",
+      "lon": "22.1091286",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1259392",
+      "lon": "22.1225566",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1266012",
+      "lon": "22.1197997",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1330171",
+      "lon": "22.1138059",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1253384",
+      "lon": "22.1321900",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1249838",
+      "lon": "22.1414825",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1292687",
+      "lon": "22.1504442",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1321145",
+      "lon": "22.1515664",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1407739",
+      "lon": "22.1594055",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1422845",
+      "lon": "22.1623023",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1502307",
+      "lon": "22.1666232",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1540789",
+      "lon": "22.1704577",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1595743",
+      "lon": "22.1826656",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1606396",
+      "lon": "22.1861774",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1617888",
+      "lon": "22.1918252",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1609461",
+      "lon": "22.2057462",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1688068",
+      "lon": "22.2144194",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1658941",
+      "lon": "22.2219825",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.3150184",
+      "lon": "22.1283103",
+      "name": "Винарија Грков",
+      "name:en": "Grkov Winery"
+    },
+    {
+      "lat": "41.4945925",
+      "lon": "22.0972026",
+      "name": "Памела",
+      "name:en": "Pamela",
+      "website": "https://www.hotelpamela.mk/"
+    },
+    {
+      "lat": "41.5022631",
+      "lon": "22.1001270",
+      "name": "Антигона"
+    },
+    {
+      "lat": "41.5022538",
+      "lon": "22.0999915",
+      "name": "Антигона"
+    },
+    {
+      "lat": "41.1210235",
+      "lon": "22.2764818",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1273970",
+      "lon": "22.2805891",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1641795",
+      "lon": "22.2352592",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1650903",
+      "lon": "22.2519400",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1532161",
+      "lon": "22.2782443",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1540161",
+      "lon": "22.2810961",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1637267",
+      "lon": "22.2619324",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1622128",
+      "lon": "22.2720619",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1305962",
+      "lon": "22.2851806",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1404928",
+      "lon": "22.2885297",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1454376",
+      "lon": "22.2916744",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1506684",
+      "lon": "22.2936764",
+      "name": "Τζένα - Πίνοβο Δήμου Εξαπλατάνου"
+    },
+    {
+      "lat": "41.1401361",
+      "lon": "22.5373741",
+      "name": "Принцез Касино",
+      "name:en": "Princess Casino"
+    },
+    {
+      "lat": "41.1356437",
+      "lon": "22.5441654",
+      "name": "Казино Фламинго",
+      "name:en": "Flamingo Casino"
+    },
+    {
+      "lat": "41.1398290",
+      "lon": "22.5396218",
+      "name": "Принцез Касино",
+      "name:en": "Princess Casino"
+    },
+    {
+      "lat": "41.1401485",
+      "lon": "22.5408029",
+      "name": "Hotel Ramada Princess"
+    },
+    {
+      "lat": "41.4293223",
+      "lon": "22.6125828",
+      "name": "Св. Илија",
+      "name:en": "St. Elijah"
+    },
+    {
+      "lat": "41.4319044",
+      "lon": "22.6289228",
+      "name": "Цареви Кули",
+      "name:en": "Czar’s Towers"
+    },
+    {
+      "lat": "41.1725058",
+      "lon": "22.7507795",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.1801641",
+      "lon": "22.7500220",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.1932523",
+      "lon": "22.7513811",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2006940",
+      "lon": "22.7521539",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2162866",
+      "lon": "22.7537735",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.1794551",
+      "lon": "22.7605850",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.1813309",
+      "lon": "22.7638428",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.1880888",
+      "lon": "22.7745563",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.1905649",
+      "lon": "22.7778691",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2223033",
+      "lon": "22.7543986",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2337667",
+      "lon": "22.7560701",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2412858",
+      "lon": "22.7573733",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2500802",
+      "lon": "22.7587849",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2371879",
+      "lon": "22.8063453",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2404025",
+      "lon": "22.8047277",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2495075",
+      "lon": "22.7972070",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2601735",
+      "lon": "22.7601734",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2579814",
+      "lon": "22.7786237",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2601167",
+      "lon": "22.7707254",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2562191",
+      "lon": "22.7857793",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2540673",
+      "lon": "22.7922065",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2315991",
+      "lon": "22.8125106",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.2284846",
+      "lon": "22.8134692",
+      "name": "Δοϊράνη Δήμων Δοϊράνης Μουριών"
+    },
+    {
+      "lat": "41.5423678",
+      "lon": "20.6301038",
+      "name": "Елен скок",
+      "name:en": "Elen Skok Bridge"
+    },
+    {
+      "lat": "41.6558800",
+      "lon": "20.7353426",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6700107",
+      "lon": "20.7348330",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6667252",
+      "lon": "20.7409651",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6740662",
+      "lon": "20.7480246",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6811496",
+      "lon": "20.7389368",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6831645",
+      "lon": "20.7400177",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6826921",
+      "lon": "20.7550032",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6786500",
+      "lon": "20.7502992",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6904475",
+      "lon": "20.7451783",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.6843864",
+      "lon": "20.7615612",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7026743",
+      "lon": "20.7610677",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.5888032",
+      "lon": "20.9700004",
+      "name": "Scaut Bashkimi"
+    },
+    {
+      "lat": "41.5888858",
+      "lon": "20.9699325",
+      "name": "Scaut Bashkimi"
+    },
+    {
+      "lat": "41.6819189",
+      "lon": "20.7724590",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7084194",
+      "lon": "20.7867793",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7101899",
+      "lon": "20.7825307",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7168593",
+      "lon": "20.7739262",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7017655",
+      "lon": "20.7982297",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7102616",
+      "lon": "20.7914196",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7054278",
+      "lon": "20.8009253",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7101258",
+      "lon": "20.8028806",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.7224629",
+      "lon": "20.8009387",
+      "name": "Мавровско Езеро",
+      "name:en": "Mavrovo Lake"
+    },
+    {
+      "lat": "41.9152450",
+      "lon": "20.8196421",
+      "name": "Negotines"
+    },
+    {
+      "lat": "41.9846006",
+      "lon": "20.9657067",
+      "name": "Hotel Royal"
+    },
+    {
+      "lat": "41.9860837",
+      "lon": "20.9583862",
+      "addr:city": "Тетово",
+      "name": "Emka"
+    },
+    {
+      "lat": "42.0035340",
+      "lon": "20.9561475",
+      "name": "Арабати баба-теќе"
+    },
+    {
+      "lat": "42.0179373",
+      "lon": "20.9598494",
+      "name": "Тетовско Кале",
+      "name:en": "Tetovo Fortress"
+    },
+    {
+      "lat": "42.0203862",
+      "lon": "20.9592184",
+      "name": "Тетовско Кале",
+      "name:en": "Tetovo Fortress"
+    },
+    {
+      "lat": "42.0208239",
+      "lon": "20.9603660",
+      "name": "Тетовско Кале",
+      "name:en": "Tetovo Fortress"
+    },
+    {
+      "lat": "41.6017516",
+      "lon": "20.9942676",
+      "name": "Bubullima"
+    },
+    {
+      "lat": "41.7037826",
+      "lon": "20.9959765",
+      "name": "Железна Река"
+    },
+    {
+      "lat": "41.5415998",
+      "lon": "21.2373221",
+      "name": "Девини Кули",
+      "name:en": "Devini Kuli"
+    },
+    {
+      "lat": "41.6260272",
+      "lon": "21.1937937",
+      "name": "Манастир Раѓање на Пресвета Богородица",
+      "name:en": "Monastery Birth of the Holly Mother"
+    },
+    {
+      "lat": "41.7234318",
+      "lon": "21.7895337",
+      "name": "Спомен Костурница",
+      "name:en": "Kosturnica Memorial"
+    },
+    {
+      "lat": "41.8434776",
+      "lon": "21.4916000",
+      "name": "Планинарски дом „Китка“",
+      "name:en": "Mountain lodge \"Kitka\""
+    },
+    {
+      "lat": "41.8931045",
+      "lon": "21.4022632",
+      "name": "Марков Манастир",
+      "name:en": "Marko's Monastery"
+    },
+    {
+      "lat": "41.9152046",
+      "lon": "21.4954730",
+      "name": "Pelenitsa"
+    },
+    {
+      "lat": "41.8379150",
+      "lon": "21.6989209",
+      "name": "Маркови Кули",
+      "name:en": "Markovi Kuli"
+    },
+    {
+      "lat": "41.9870370",
+      "lon": "21.2875090",
+      "name": "Ел Калем"
+    },
+    {
+      "lat": "42.0414757",
+      "lon": "21.3540495",
+      "name": "Картинг Клуб",
+      "name:en": "Karting Club"
+    },
+    {
+      "lat": "42.0511639",
+      "lon": "21.3610638",
+      "name": "Хиподром Волково",
+      "name:en": "Hipodrom Volkovo"
+    },
+    {
+      "lat": "42.1560347",
+      "lon": "21.1842316",
+      "name": "Црквиште"
+    },
+    {
+      "lat": "42.0678926",
+      "lon": "21.2907964",
+      "name": "Девојачки Камен"
+    },
+    {
+      "lat": "42.1027256",
+      "lon": "21.3784397",
+      "name": "св. Тројица",
+      "name:en": "Sv. Trojitca"
+    },
+    {
+      "lat": "42.1298165",
+      "lon": "21.3873809",
+      "name": "Манастир Св. Илија",
+      "name:en": "Monastery St. Elijah"
+    },
+    {
+      "lat": "42.1300452",
+      "lon": "21.3879040",
+      "name": "Манастир Св. Илија",
+      "name:en": "Monastery St. Elijah"
+    },
+    {
+      "lat": "42.0107663",
+      "lon": "21.4102576",
+      "name": "Градски парк",
+      "name:en": "City Park"
+    },
+    {
+      "lat": "41.9690066",
+      "lon": "21.4652417",
+      "name": "Domus hostel"
+    },
+    {
+      "lat": "41.9906315",
+      "lon": "21.4733223",
+      "addr:city": "Cкoпje",
+      "name": "DoubleTree by Hilton Skopje",
+      "website": "https://www.hilton.com/en/hotels/skpabdi-doubletree-skopje/"
+    },
+    {
+      "lat": "42.0078222",
+      "lon": "21.4902127",
+      "name": "Камник"
+    },
+    {
+      "lat": "42.0547462",
+      "lon": "21.4525339",
+      "name": "Мотел-ресторан Олимпија"
+    },
+    {
+      "lat": "41.9959858",
+      "lon": "21.5504633",
+      "name": "Белви"
+    },
+    {
+      "lat": "42.0855378",
+      "lon": "21.4103401",
+      "name": "Манастир Св. Илија",
+      "name:en": "Monastery of St. Elijah"
+    },
+    {
+      "lat": "42.0854164",
+      "lon": "21.4095692",
+      "name": "Манастир Св. Илија",
+      "name:en": "Monastery of St. Elijah"
+    },
+    {
+      "lat": "42.1100617",
+      "lon": "21.4694062",
+      "name": "Манастир Св. Никола",
+      "name:en": "Saint Nicholas Monastery"
+    },
+    {
+      "lat": "42.1322923",
+      "lon": "21.4137098",
+      "name": "Манастир Св. Архангели",
+      "name:en": "Monastery St. Archangels"
+    },
+    {
+      "lat": "42.1257427",
+      "lon": "21.4286398",
+      "name": "Манастир Св. Богородица",
+      "name:en": "St. Holy Mother of God Monastery"
+    },
+    {
+      "lat": "42.1206372",
+      "lon": "21.7329641",
+      "addr:city": "Куманово",
+      "name": "Хотел Мимоза",
+      "name:en": "Hotel Mimoza"
+    },
+    {
+      "lat": "42.1794755",
+      "lon": "21.6202074",
+      "name": "Muzeu \"Dëshmorët e kombit\""
+    },
+    {
+      "lat": "42.1791172",
+      "lon": "21.6197987",
+      "name": "Muzeu \"Dëshmorët e kombit\""
+    },
+    {
+      "lat": "41.5520266",
+      "lon": "21.9676032",
+      "name": "Стоби",
+      "name:en": "Stobi",
+      "opening_hours": "Mo-Sa 08:00-16:00",
+      "website": "http://www.stobi.mk"
+    },
+    {
+      "lat": "41.5494975",
+      "lon": "21.9741834",
+      "name": "Стоби",
+      "name:en": "Stobi",
+      "opening_hours": "Mo-Sa 08:00-16:00",
+      "website": "http://www.stobi.mk"
+    },
+    {
+      "lat": "41.7495372",
+      "lon": "22.0244445",
+      "name": "Ѓаволски Ѕид",
+      "name:en": "Devil's Wall"
+    },
+    {
+      "lat": "41.7403314",
+      "lon": "22.1864540",
+      "name": "Исар"
+    },
+    {
+      "lat": "41.8472031",
+      "lon": "21.9129575",
+      "name": "Билазора"
+    },
+    {
+      "lat": "41.8498120",
+      "lon": "21.9099590",
+      "name": "Bilazora - Water Reservoir"
+    },
+    {
+      "lat": "41.7542756",
+      "lon": "22.0116986",
+      "name": "Ѓаволски Ѕид",
+      "name:en": "Devil's Wall"
+    },
+    {
+      "lat": "41.7509139",
+      "lon": "22.0200886",
+      "name": "Ѓаволски Ѕид",
+      "name:en": "Devil's Wall"
+    },
+    {
+      "lat": "41.8300273",
+      "lon": "21.9563597",
+      "name": "Geoglif Sv. Nikole"
+    },
+    {
+      "lat": "41.7410244",
+      "lon": "22.5037931",
+      "name": "Бел камен"
+    },
+    {
+      "lat": "41.8005877",
+      "lon": "22.2883279",
+      "name": "Баргала",
+      "name:en": "Bargala"
+    },
+    {
+      "lat": "41.7995680",
+      "lon": "22.2909511",
+      "name": "Баргала",
+      "name:en": "Bargala"
+    },
+    {
+      "lat": "41.8001798",
+      "lon": "22.2903074",
+      "name": "Баргала",
+      "name:en": "Bargala"
+    },
+    {
+      "lat": "41.7885206",
+      "lon": "22.3279091",
+      "name": "Манастир Св. Петка",
+      "name:en": "Monastery St. Paraskevi"
+    },
+    {
+      "lat": "41.9215107",
+      "lon": "22.4090199",
+      "name": "Средновековна Кула",
+      "name:en": "Medieval Tower"
+    },
+    {
+      "lat": "41.9233597",
+      "lon": "22.4121374",
+      "name": "Средновековна Кула",
+      "name:en": "Medieval Tower"
+    },
+    {
+      "lat": "41.9044540",
+      "lon": "22.4816044",
+      "name": "Мотел Слив",
+      "name:en": "Motel Sliv"
+    },
+    {
+      "lat": "41.8788735",
+      "lon": "22.5105368",
+      "name": "Свет Крст"
+    },
+    {
+      "lat": "41.9143632",
+      "lon": "22.4492376",
+      "name": "Хотел Филипов",
+      "name:en": "Hotel Filipov"
+    },
+    {
+      "lat": "41.9095500",
+      "lon": "22.4697361",
+      "name": "Хотел Шагал",
+      "name:en": "Hotel Shagal",
+      "website": "http://hotelsagal.com.mk/mk/index.html"
+    },
+    {
+      "lat": "41.9092945",
+      "lon": "22.4700579",
+      "name": "Хотел Шагал",
+      "name:en": "Hotel Shagal",
+      "website": "http://hotelsagal.com.mk/mk/index.html"
+    },
+    {
+      "lat": "41.9381449",
+      "lon": "22.4591283",
+      "name": "Манастир Добра Вода",
+      "name:en": "Monastery Dobra Voda"
+    },
+    {
+      "lat": "41.9378482",
+      "lon": "22.4602803",
+      "name": "Манастир Добра Вода",
+      "name:en": "Monastery Dobra Voda"
+    },
+    {
+      "lat": "42.0135470",
+      "lon": "22.2277530",
+      "name": "Лесновски манастир",
+      "name:en": "Lesnovo Monastery"
+    },
+    {
+      "lat": "42.1980590",
+      "lon": "21.8282200",
+      "addr:city": "Старо Нагоричане",
+      "name": "Св. Великомаченик Георгиј",
+      "name:en": "Church of St. George"
+    },
+    {
+      "lat": "41.9686166",
+      "lon": "22.3098955",
+      "name": "Манастир Св. Пантелејом",
+      "name:en": "Monastery St. Panteleimon"
+    },
+    {
+      "lat": "41.9945427",
+      "lon": "22.3574189",
+      "name": "Осоговска Куќа"
+    },
+    {
+      "lat": "41.9639493",
+      "lon": "22.4066710",
+      "name": "Еуро Хотел Градче",
+      "name:en": "Euro Hotel Gradche",
+      "website": "http://hotelimakedonija.com.mk/mk/Hotel/1163/Euro-Hotel-Gradce-Kocani"
+    },
+    {
+      "lat": "42.0405046",
+      "lon": "22.3570132",
+      "name": "Мотел Мице",
+      "name:en": "Motel Mice",
+      "website": "https://www.motelmice.com.mk/"
+    },
+    {
+      "lat": "41.6696936",
+      "lon": "22.8947523",
+      "name": "Беровско Езеро",
+      "name:en": "Berovo Lake"
+    },
+    {
+      "lat": "41.6644526",
+      "lon": "22.9104184",
+      "name": "Беровско Езеро",
+      "name:en": "Berovo Lake"
+    },
+    {
+      "lat": "41.6692977",
+      "lon": "22.9017562",
+      "name": "Беровско Езеро",
+      "name:en": "Berovo Lake"
+    },
+    {
+      "lat": "41.6599111",
+      "lon": "22.9118412",
+      "name": "Беровско Езеро",
+      "name:en": "Berovo Lake"
+    },
+    {
+      "lat": "41.6534847",
+      "lon": "22.9754574",
+      "name": "Бачило Клепало"
+    }
+  ]
