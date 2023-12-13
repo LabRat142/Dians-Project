@@ -54,9 +54,16 @@
         </div>
     </form>
     <h3>Search Results:</h3>
-    <ul>
-        <li th:each="place : ${places}" th:text="${place.getName()}"></li>
-    </ul>
+    <div id="results" style="display:flex; flex-basis: fit-content;">
+        <div id="results-list" style="max-width:30%;height:600px; overflow-y: auto;">
+            <ul>
+                <li th:each="place : ${places}" ><a th:text="${place.getName()}" th:href="@{'/storimak/search?search_str=' + ${searchstr} + '&lat=' + ${place.getLat()} + '&lon=' + ${place.getLon()}}" class="btn btn-success">Delete Book</a></li>
+            </ul>
+        </div>
+        <div id=results-map style="height:600px;">
+            <iframe th:src="${mapsrc}" width="600px" height="100%" frameborder="0" style="border:0"></iframe>
+        </div>
+    </div>
 </main>
 <!-- partial -->
 <script src='https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js'></script>
