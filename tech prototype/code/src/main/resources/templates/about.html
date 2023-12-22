@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>Storimak</title>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap'>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Material+Icons+Round'>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        .social {
+            display: flex;
+            width: 50%;
+            justify-content: space-evenly;
+        }
+        .fa {
+            padding: 20px 50px 20px 25px;
+            font-size: 30px;
+            width: 30px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+            border-radius: 50%;
+        }
+
+        .fa:hover {
+            opacity: 0.7;
+        }
+
+        .fa-google {
+            background: #dd4b39;
+            color: white;
+        }
+
+        .fa-linkedin {
+            background: #007bb5;
+            color: white;
+        }
+
+        .fa-github {
+            background: #125688;
+            color: white;
+        }
+
+        .fa-slack {
+            background: #00aff0;
+            color: white;
+        }
+    </style>
+
+</head>
+
+<body>
+<!-- partial:index.partial.html -->
+<!-- Navbar -->
+<nav id="navbar">
+    <ul class="navbar-items flexbox-col">
+        <li class="navbar-logo flexbox-left">
+            <a class="navbar-item-inner flexbox">
+                <img src="/images/New_Project.png" alt="logo">
+            </a>
+        </li>
+        <li class="navbar-item flexbox-left">
+            <a href="/storimak" class="navbar-item-inner flexbox-left">
+                <div class="navbar-item-inner-icon-wrapper flexbox">
+                    <ion-icon name="home-outline"></ion-icon>
+                </div>
+                <span class="link-text">Home</span>
+            </a>
+        </li>
+        <li class="navbar-item flexbox-left">
+            <a href="/storimak/search" class="navbar-item-inner flexbox-left">
+                <div class="navbar-item-inner-icon-wrapper flexbox">
+                    <ion-icon name="search-outline"></ion-icon>
+                </div>
+                <span class="link-text">Search</span>
+            </a>
+        </li>
+        <li class="navbar-item flexbox-left">
+            <a class="navbar-item-inner flexbox-left">
+                <div class="navbar-item-inner-icon-wrapper flexbox">
+                    <ion-icon name="people-outline"></ion-icon>
+                </div>
+                <span class="link-text">About us</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+
+<!-- Main -->
+<main id="main" class="flexbox-col">
+    <h2>Who we are</h2>
+    <p style="text-align: center">We are a group of students at the Faculty of Information Sciences and Computer Engineering - Skopje.</p>
+    <p style="text-align: center">Our project goal is to build this geolocation and map web application.</p>
+    <br>
+    <h2>Purpose of this project</h2>
+    <p>The objective of the application is to seamlessly connect with Google Maps. The map should exhibit geolocation (and other pertinent) information for numerous historical heritage sites and museums all across the territory of Macedonia. Moreover, users should be able to add new sites (currently exceeding 700) and provide comments and ratings for various establishments. The application will showcase sites through cards that allow users to search by name and filter by city and category. We hope you find it appealing and useful in exploring Macedonia's rich historical heritage!</p>
+    <br>
+    <h2>Contact</h2>
+    <br>
+    <div class="social">
+        <a href="#" class="fa fa-google"></a>
+        <a href="#" class="fa fa-linkedin"></a>
+        <a href="#" class="fa fa-github"></a>
+        <a href="#" class="fa fa-slack"></a>
+    </div>
+</main>
+<!-- partial -->
+<script src='https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js'></script>
+<script src='https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js'></script>
+</body>
+</html>
