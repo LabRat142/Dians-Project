@@ -1,4 +1,4 @@
-FROM openjdk:11-jdk-slim
+FROM openjdk:17-jdk-slim
 
 COPY pom.xml .
 
@@ -9,4 +9,4 @@ RUN mvn clean package -DskipTests
 
 EXPOSE 8080
 
-CMD ["java", "-jar", "target/your-application.jar"]
+CMD ["java", "-jar", "target/storimak.jar"]
