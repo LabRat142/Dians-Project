@@ -48,6 +48,7 @@
     </dependencies>
 
     <build>
+        <finalName>storimak</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
