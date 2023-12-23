@@ -26,7 +26,7 @@ public class PlaceRepository implements PlaceService {
     public List<Place> readJsonFromFile(String filePath) throws IOException {
         Resource resource = new ClassPathResource(filePath);
         ObjectMapper objectMapper = new ObjectMapper();
-        return objectMapper.readValue(resource.getFile(), new TypeReference<List<Place>>() {});
+        return objectMapper.readValue(resource.getInputStream(), new TypeReference<List<Place>>() {});
         // Read JSON from file and convert to List<Place>
     }
     @Override
