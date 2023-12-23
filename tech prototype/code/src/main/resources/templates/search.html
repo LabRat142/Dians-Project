@@ -55,24 +55,26 @@
     </form>
     <h3>Search Results:</h3>
     <div id="results" style="display:flex; flex-basis: fit-content;">
-        <div id="results-list" style="max-width:30%;height:600px; overflow-y: auto;">
-            <ul>
+        <div th:if="${places.isEmpty()}">
+            <h5>No Places Found :(</h5>
+        </div>
+        <div  id="results-list" style="max-width:30%;height:600px; overflow-y: auto;">
+            <ul th:if="${!places.isEmpty()}">
                 <li th:each="place : ${places}" ><a th:text="${place.getName()}" th:href="@{'/storimak/search?search_str=' + ${searchstr} + '&placeId=' + ${place.getID()}}" class="btn btn-success"></a></li>
             </ul>
         </div>
-        <div id=results-map style="height:600px;">
+        <div th:if="${!places.isEmpty()}" id=results-map style="height:600px;">
             <iframe th:src="${mapsrc}" width="600px" height="100%" frameborder="0" style="border:0"></iframe>
         </div>
         <div th:if="${place != null}" id="place-info" style="max-width:30%;height:600px; overflow-y: auto;">
             <p th:if="${!place.getName().isEmpty()}" th:text="${'Name: ' + place.getName()}"></p>
             <p th:if="${!place.getNameEnglish().isEmpty()}" th:text="${'English Name: ' + place.getNameEnglish()}">
             <p th:if="${!place.getWebsite().isEmpty()}" th:text="${'Website: ' + place.getWebsite()}"></p>
-            <p th:if="${!place.getCity().isEmpty()}" th:text="${'City: ' + place.getCity()()}"></p>
-            <p th:if="${!place.getPhone_number().isEmpty()}" th:text="${'Contact Phone: ' + place.getPhone_number()()}"></p>
-            <p th:if="${!place.getOpening_hours().isEmpty()}" th:text="${'Opening Hours: ' + place.getOpening_hours()()}"></p>
+            <p th:if="${!place.getCity().isEmpty()}" th:text="${'City: ' + place.getCity()}"></p>
+            <p th:if="${!place.getPhone_number().isEmpty()}" th:text="${'Contact Phone: ' + place.getPhone_number()}"></p>
+            <p th:if="${!place.getOpening_hours().isEmpty()}" th:text="${'Opening Hours: ' + place.getOpening_hours()}"></p>
             </br>
-            <p th:if="${!place.getDescription().isEmpty()}" th:text="${'Description: ' + place.getDescription()()()}">
-
+            <p th:if="${!place.getDescription().isEmpty()}" th:text="${'Description: ' + place.getDescription()()}">
         </div>
     </div>
 </main>
