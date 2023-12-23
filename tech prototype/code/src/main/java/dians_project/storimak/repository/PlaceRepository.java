@@ -21,6 +21,9 @@ public class PlaceRepository implements PlaceService {
 
     public PlaceRepository() throws IOException {
         placeList = readJsonFromFile("static/base.json");
+        for (int i = 0; i < placeList.size(); i++) {
+            placeList.get(i).setID(i);
+        }
     }
     @Override
     public List<Place> readJsonFromFile(String filePath) throws IOException {
@@ -32,5 +35,10 @@ public class PlaceRepository implements PlaceService {
     @Override
     public List<Place> findAll() {
         return placeList;
+    }
+
+    @Override
+    public Place findById(int id) {
+        return placeList.stream().filter(p -> p.getID() == id).findFirst().orElse(null);
     }
 }

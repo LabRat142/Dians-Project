@@ -9,6 +9,7 @@ import java.sql.Time;
 @Data
 @AllArgsConstructor
 public class Place {
+    int ID;
     double lat;
     double lon;
     String name;

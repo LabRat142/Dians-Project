@@ -34,7 +34,7 @@ public class PlaceController {
     }
 
     @GetMapping("/search")
-    public String searchPage(@RequestParam(required = false) String search_str,@RequestParam(required = false) Double lat, @RequestParam(required = false) Double lon, Model model){
+    public String searchPage(@RequestParam(required = false) String search_str,@RequestParam(required = false) Integer placeId, Model model){
         List<Place> places = new ArrayList<Place>(placeService.findAll().stream()
                 .collect(Collectors.toMap(Place::getName, p -> p, (prev, curr) -> curr))
                 .values());
@@ -50,11 +50,14 @@ public class PlaceController {
         }
         model.addAttribute("places",places);
 
-        if (lat == null || lon == null){
+        Place place = placeId == null ? null : placeService.findById(placeId);
+        model.addAttribute("place",place);
+
+        if (place == null){
             model.addAttribute("mapsrc", "https://maps.google.com/maps?z=15&output=embed");
         }
         else{
-            model.addAttribute("mapsrc", "https://maps.google.com/maps?q=" + lat + "," + lon + "&z=15&output=embed");
+            model.addAttribute("mapsrc", "https://maps.google.com/maps?q=" + place.getLat() + "," + place.getLon() + "&z=15&output=embed");
         }
 
         model.addAttribute("searchstr", search_str);

@@ -10,4 +10,5 @@ import java.util.List;
 public interface PlaceService {
     public List<Place> readJsonFromFile(String filePath) throws IOException;
     public List<Place> findAll();
+    public Place findById(int id);
 }
