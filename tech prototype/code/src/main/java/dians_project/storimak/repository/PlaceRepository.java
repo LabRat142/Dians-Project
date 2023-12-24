@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Repository
 public class PlaceRepository implements PlaceService {
@@ -21,6 +22,7 @@ public class PlaceRepository implements PlaceService {
 
     public PlaceRepository() throws IOException {
         placeList = readJsonFromFile("static/base.json");
+        placeList = new ArrayList<Place>(placeList.stream().collect(Collectors.toMap(Place::getName, p -> p, (prev, curr) -> curr)).values());
         for (int i = 0; i < placeList.size(); i++) {
             placeList.get(i).setID(i);
         }

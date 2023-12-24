@@ -6,6 +6,22 @@
     <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap'>
     <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Material+Icons+Round'>
     <link rel="stylesheet" href="/css/style.css">
+    <script>
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition);
+            } else {
+                alert("Geolocation is not supported by this browser.");
+            }
+        }
+
+        function showPosition(position) {
+            var lat = position.coords.latitude;
+            var lon = position.coords.longitude;
+
+            window.location.href = 'nearsearch?lat=' + lat + '&lon=' + lon;
+        }
+    </script>
 </head>
 
 <body>
@@ -46,27 +62,47 @@
 </nav>
 
 <!-- Main -->
-<main id="main" class="flexbox-col">
-    <form accept-charset="UTF-8" class="bg-white p-4 shadow-sm rounded">
-        <div class="form-group d-flex">
-            <input type="text" class="form-control" name="search_str" placeholder="Search">
-            <button type="submit" class="btn btn-success ml-2">Search</button>
+<main id="main">
+    <div id="search-bar" class="flexbox">
+        <div id ="search-input" class="flexbox-col" style="margin-right:150px">
+            <form th:method="get" th:action="@{/storimak/search}" accept-charset="UTF-8" class="bg-white p-4 shadow-sm rounded">
+                <div class="form-group d-flex">
+                    <input type="text" class="form-control" name="search_str" placeholder="Search">
+                    <button type="submit" class="btn btn-success ml-2">Search</button>
+                </div>
+            </form>
         </div>
-    </form>
-    <h3>Search Results:</h3>
-    <div id="results" style="display:flex; flex-basis: fit-content;">
-        <div th:if="${places.isEmpty()}">
-            <h5>No Places Found :(</h5>
+        <div id="nearby-search" class="flexbox-col">
+            <b>Search By Location</b>
+            <form th:method="get" th:action="@{/storimak/nearsearch}" accept-charset="UTF-8">
+                <label style="height:25px;">Latitude:</label>
+                <input id="lat-input" type="text" name="lat" style="width:100px;height:20px;">
+                <br>
+                <label style="height:25px;">Longitude:</label>
+                <input id="lon-input" type="text" name="lon" style="width:100px;height:20px;" >
+                <br>
+                <button type="submit" class="btn btn-success ml-2">Search</button>
+            </form>
+            <a onclick="getLocation()" style="align-self: flex-start">Near You</a>
+        </div>
+    </div>
+    <h3 class="flexbox-col-start-center">Search Results:</h3>
+    <div id="results" class="flexbox">
+        <div th:if="${places.isEmpty()}" class="flexbox" style="align-self: flex-start">
+            <h5 style="margin-top:10px;">No Places Found :(</h5>
         </div>
         <div  id="results-list" style="max-width:30%;height:600px; overflow-y: auto;">
-            <ul th:if="${!places.isEmpty()}">
+            <ul th:if="${!places.isEmpty() && !nearby}">
                 <li th:each="place : ${places}" ><a th:text="${place.getName()}" th:href="@{'/storimak/search?search_str=' + ${searchstr} + '&placeId=' + ${place.getID()}}" class="btn btn-success"></a></li>
             </ul>
+            <ul th:if="${!places.isEmpty() && nearby}">
+                <li th:each="place : ${places}" ><a th:text="${place.getName()}" th:href="@{'/storimak/nearsearch?lat='+ ${lat} + '&lon=' + ${lon} + '&placeId=' + ${place.getID()}}" class="btn btn-success"></a></li>
+            </ul>
         </div>
-        <div th:if="${!places.isEmpty()}" id=results-map style="height:600px;">
+        <div th:if="${!places.isEmpty()}" id=results-map class="flexbox-col" style="height:600px;">
             <iframe th:src="${mapsrc}" width="600px" height="100%" frameborder="0" style="border:0"></iframe>
         </div>
-        <div th:if="${place != null}" id="place-info" style="max-width:30%;height:600px; overflow-y: auto;">
+        <div th:if="${place != null}" id="place-info" class="flexbox-col" style="justify-content:flex-start;align-items:flex-start;max-width:30%;height:600px; overflow-y: auto;">
             <p th:if="${!place.getName().isEmpty()}" th:text="${'Name: ' + place.getName()}"></p>
             <p th:if="${!place.getNameEnglish().isEmpty()}" th:text="${'English Name: ' + place.getNameEnglish()}">
             <p th:if="${!place.getWebsite().isEmpty()}" th:text="${'Website: ' + place.getWebsite()}"></p>
