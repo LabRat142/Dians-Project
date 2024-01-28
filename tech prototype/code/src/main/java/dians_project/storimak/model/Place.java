@@ -1,15 +1,20 @@
 package dians_project.storimak.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.sql.Time;
 
 @Data
-@AllArgsConstructor
+@Entity
 public class Place {
-    int ID;
+    @Id
+    @GeneratedValue
+    Long ID;
     double lat;
     double lon;
     String name;

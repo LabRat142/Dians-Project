@@ -36,7 +36,7 @@ public class PlaceController {
     }
 
     @GetMapping("/search")
-    public String searchPage(@RequestParam(required = false) String search_str,@RequestParam(required = false) Integer placeId, Model model){
+    public String searchPage(@RequestParam(required = false) String search_str,@RequestParam(required = false) Long placeId, Model model){
         List<Place> places = placeService.findAll();
         if (search_str != null && !search_str.isEmpty() && !search_str.equals("null")){
             places = (List<Place>) places.stream()
@@ -67,7 +67,7 @@ public class PlaceController {
     }
 
     @GetMapping("/nearsearch")
-    public String nearSearch(@RequestParam(required = false) Double lat,@RequestParam(required = false) Double lon, @RequestParam(required = false) Integer placeId, Model model){
+    public String nearSearch(@RequestParam(required = false) Double lat,@RequestParam(required = false) Double lon, @RequestParam(required = false) Long placeId, Model model){
         List<Place> places = placeService.findAll();
         if (lat != null && lon != null) {
             places = places.stream().sorted(Comparator.comparing(place -> {
