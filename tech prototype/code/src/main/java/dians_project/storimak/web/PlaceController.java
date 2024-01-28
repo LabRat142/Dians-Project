@@ -2,6 +2,10 @@ package dians_project.storimak.web;
 
 import dians_project.storimak.model.Place;
 import dians_project.storimak.service.PlaceService;
+import dians_project.storimak.service.impl.UserServiceImpl;
+import org.springframework.security.authentication.AnonymousAuthenticationToken;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -9,29 +13,43 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Controller
 @RequestMapping("/storimak")
 public class PlaceController {
     private final PlaceService placeService;
+    private final UserServiceImpl userService;
 
-    public PlaceController(PlaceService placeService) {
+    public PlaceController(PlaceService placeService, UserServiceImpl userService) {
         this.placeService = placeService;
+        this.userService = userService;
     }
 
     @GetMapping()
-    public String homePage() {
+    public String homePage(Model model) {
+        Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+        if (auth instanceof AnonymousAuthenticationToken || auth.getName()==null) {
+            model.addAttribute("LoggedIn", false);
+        }
+        else{
+            model.addAttribute("UserName",auth.getName());
+            model.addAttribute("LoggedIn", true);
+        }
         return "index";
     }
 
     @GetMapping("/about")
-    public String aboutPage() {
+    public String aboutPage(Model model) {
+        Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+        if (auth instanceof AnonymousAuthenticationToken || auth.getName()==null) {
+            model.addAttribute("LoggedIn", false);
+        }
+        else{
+            model.addAttribute("UserName",auth.getName());
+            model.addAttribute("LoggedIn", true);
+        }
         return "about";
     }
 
@@ -63,6 +81,15 @@ public class PlaceController {
 
         model.addAttribute("searchstr", search_str);
 
+        Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+        if (auth instanceof AnonymousAuthenticationToken || auth.getName()==null) {
+            model.addAttribute("LoggedIn", false);
+        }
+        else{
+            model.addAttribute("UserName",auth.getName());
+            model.addAttribute("LoggedIn", true);
+        }
+
         return "search";
     }
 
@@ -90,7 +117,29 @@ public class PlaceController {
             model.addAttribute("mapsrc", "https://maps.google.com/maps?q=" + place.getLat() + "," + place.getLon() + "&z=15&output=embed");
         }
 
+        Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+        if (auth instanceof AnonymousAuthenticationToken || auth.getName()==null) {
+            model.addAttribute("LoggedIn", false);
+        }
+        else{
+            model.addAttribute("UserName",auth.getName());
+            model.addAttribute("LoggedIn", true);
+        }
+
         return "search";
+    }
+
+    @GetMapping("/register")
+    public String showRegistrationForm() {
+        return "register";
+    }
+
+    @PostMapping("/process-register")
+    public String processRegistrationForm(@RequestParam String username,
+                                          @RequestParam String password,
+                                          @RequestParam String repeatPassword) {
+        userService.register(username, password, repeatPassword);
+        return "redirect:/";
     }
 
 }

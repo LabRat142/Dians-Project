@@ -52,6 +52,10 @@
 </head>
 
 <body>
+<div id="userInfo" th:if="${LoggedIn}" style="position:fixed; top:0; right:0;">
+    <div  th:text="'Logged in as ' + ${UserName}"></div>
+    <a href="/logout" id="logout">Logout</a>
+</div>
 <!-- partial:index.partial.html -->
 <!-- Navbar -->
 <nav id="navbar">

@@ -9,6 +9,10 @@
 </head>
 
 <body>
+<div id="userInfo" th:if="${LoggedIn}" style="position:fixed; top:0; right:0;">
+  <div  th:text="'Logged in as ' + ${UserName}"></div>
+  <a href="/logout" id="logout">Logout</a>
+</div>
 <!-- partial:index.partial.html -->
 <!-- Navbar -->
 <nav id="navbar">
@@ -49,6 +53,11 @@
 <main id="main" class="flexbox-col">
   <h2>Welcome to Storimak</h2>
   <p>Storimak is a comprehensive guide to the rich tapestry of history and culture in North Macedonia. Discover a multitude of historical sites that attest to the captivating past and rich cultural heritage of this alluring area. Our platform acts as a guide and entryway to explore the breathtaking stories and riches spread throughout North Macedonia, encompassing everything from historic marvels to medieval fields and strongholds, lively cultural centers, and much more. Explore the fascinating legacy that defines this unique land and discover the fascination of iconic landmarks, local customs, and a trip through time. Begin your journey now, and allow the historical narratives to lead you through the rich tapestry of North Macedonian history and culture.</p>
+  <br>
+  <div class="container text-center">
+    <h4><a href="/storimak/register">Register</a></h4>
+    <h4><a href="/login">Login</a></h4>
+  </div>
 </main>
 <!-- partial -->
 <script src='https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js'></script>
